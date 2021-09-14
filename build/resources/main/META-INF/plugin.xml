@@ -9,16 +9,22 @@
   <name>Copy &amp; Browse as Github Path</name>
   <vendor email="paul.dennis@amount.com">Amount-Dev</vendor>
   <description>For projects with git repos in the base, it allows you to copy the current file's path on
-      master, and open that with the default browser.&lt;br/&gt;&lt;br/&gt;
+      either master or the current branch and open it with the default browser.&lt;br/&gt;&lt;br/&gt;
       Handy when you want to quickly navigate to a file in Intellij and then copy the Github
       link (including line number or line range) to share with someone else as a URL.&lt;br/&gt;&lt;br/&gt;
       Usage:&lt;br/&gt;
-      &lt;ul&gt;
-        &lt;li&gt;To copy the Github file URL only, right-click on the open file's tab or the file in the Project view&lt;/li&gt; 
-        &lt;li&gt;To copy the Github file URL with a single line selected in Github, right-click on the line&lt;/li&gt; 
-        &lt;li&gt;To copy the Github file URL with a line range selected in Github, select the range and right-click on the range&lt;/li&gt; 
-      &lt;/ul&gt;
-      Choose the option to Copy URL and open Github</description>
+      &lt;ol&gt;
+        &lt;li&gt;
+          &lt;ul&gt;
+            &lt;li&gt;To copy the Github file URL only, right-click on the open file's tab or the file in the Project view&lt;/li&gt; 
+            &lt;li&gt;To copy the Github file URL with a single line selected in Github, right-click on the line&lt;/li&gt; 
+            &lt;li&gt;To copy the Github file URL with a line range selected in Github, select the range and right-click on the range&lt;/li&gt; 
+          &lt;/ul&gt;
+        &lt;/li&gt;
+        &lt;li&gt;
+            Choose the option to Copy URL and open Github on either Master or Current Branch
+        &lt;/li&gt;
+      &lt;/ol&gt;</description>
   <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
          on how to target different products -->
   <depends>com.intellij.modules.platform</depends>

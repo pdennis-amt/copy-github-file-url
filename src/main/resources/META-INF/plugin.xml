@@ -4,8 +4,8 @@
     <vendor email="paul.dennis@amount.com">Amount-Dev</vendor>
 
     <description><![CDATA[
-      For projects with git repos in the base, it allows you to copy the current file's path on
-      master, and open that with the default browser.<br>
+      For projects with git repos in the base, it allows you to copy the current file's path on either
+      master or the current branch and open it with the default browser.<br>
 
       Handy when you want to quickly navigate to a file in Intellij and then copy the Github
       link (including line number) to share with someone else as a URL.<br>

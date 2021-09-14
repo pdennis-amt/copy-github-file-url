@@ -26,16 +26,22 @@ patchPluginXml {
     version = project.version
     pluginDescription = """
       For projects with git repos in the base, it allows you to copy the current file's path on
-      master, and open that with the default browser.<br/><br/>
+      either master or the current branch and open it with the default browser.<br/><br/>
       Handy when you want to quickly navigate to a file in Intellij and then copy the Github
       link (including line number or line range) to share with someone else as a URL.<br/><br/>
       Usage:<br/>
-      <ul>
-        <li>To copy the Github file URL only, right-click on the open file's tab or the file in the Project view</li> 
-        <li>To copy the Github file URL with a single line selected in Github, right-click on the line</li> 
-        <li>To copy the Github file URL with a line range selected in Github, select the range and right-click on the range</li> 
-      </ul>
-      Choose the option to Copy URL and open Github
+      <ol>
+        <li>
+          <ul>
+            <li>To copy the Github file URL only, right-click on the open file's tab or the file in the Project view</li> 
+            <li>To copy the Github file URL with a single line selected in Github, right-click on the line</li> 
+            <li>To copy the Github file URL with a line range selected in Github, select the range and right-click on the range</li> 
+          </ul>
+        </li>
+        <li>
+            Choose the option to Copy URL and open Github on either Master or Current Branch
+        </li>
+      </ol>
       """
     changeNotes = """
 <p>1.0</p>
