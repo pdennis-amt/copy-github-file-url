@@ -7,7 +7,7 @@
   <idea-version since-build="212.4746.92" until-build="212.*" />
   <id>com.amount.copy-github-file-url</id>
   <name>Copy &amp; Browse as Github Path</name>
-  <vendor email="paul.dennis@amount.com">Amount-Dev</vendor>
+  <vendor>Amount-Dev</vendor>
   <description>For projects with git repos in the base, it allows you to copy the current file's path on
       either master or the current branch and open it with the default browser.&lt;br/&gt;&lt;br/&gt;
       Handy when you want to quickly navigate to a file in Intellij and then copy the Github
