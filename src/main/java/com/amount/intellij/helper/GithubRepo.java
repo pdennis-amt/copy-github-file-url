@@ -4,12 +4,12 @@ package com.amount.intellij.helper;
  * Url builder for github repos.
  */
 public class GithubRepo extends GitRepo {
-  public GithubRepo(String projectRoot) {
-    super(projectRoot);
+  public GithubRepo(String projectRoot, Boolean useCurrentBranch) {
+    super(projectRoot, useCurrentBranch);
   }
 
-  public GithubRepo(String projectRoot, String gitconfig) {
-    super(projectRoot, gitconfig);
+  public GithubRepo(String projectRoot, String gitconfig, Boolean useCurrentBranch) {
+    super(projectRoot, gitconfig, useCurrentBranch);
   }
 
   @Override
@@ -18,9 +18,11 @@ public class GithubRepo extends GitRepo {
   }
 
   @Override
-  protected String buildUrlFor(String sanitizedUrlValue) {
-    return "https://" + sanitizedUrlValue + "/blob/master";
-
+  protected String buildUrlFor(String sanitizedUrlValue, Boolean useCurrentBranch, String gitHeadFilePath) {
+    String branch = "";
+    if (useCurrentBranch) { branch = currentGitBranch(); }
+    else { branch = "master"; }
+    return "https://" + sanitizedUrlValue + "/blob/" + branch;
   }
 
   @Override

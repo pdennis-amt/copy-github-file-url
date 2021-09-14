@@ -4,6 +4,7 @@ package com.amount.intellij.helper;
 import com.google.common.annotations.VisibleForTesting;
 
 import java.io.*;
+import java.nio.file.Paths;
 import java.util.regex.Matcher;
 import java.util.regex.Pattern;
 
@@ -13,25 +14,56 @@ import java.util.regex.Pattern;
 public abstract class GitRepo {
   private static Pattern INI_CATEGORY = Pattern.compile("\\[\\s*(\\w+)[\\s'\"]+(\\w+)[\\s'\"]+\\]");
   private static Pattern URL_VALUE = Pattern.compile("\\s*url\\s*=\\s*([^\\s]*)\\.git");
+  private static Pattern HEAD_BRANCH = Pattern.compile("ref:\\s*(?:(?:\\w+\\/)+)+([^\\s]+)");
   private final File gitConfigFile;
+  private final String gitHeadFilePath;
+  private final Boolean useCurrentBranch;
 
-  public GitRepo(String projectRoot) {
-    this(projectRoot, ".git/config");
+  public GitRepo(String projectRoot, Boolean useCurrentBranch) {
+    this(projectRoot, ".git/config", useCurrentBranch);
   }
 
   @VisibleForTesting
-  public GitRepo(String projectRoot, String gitconfig) {
+  public GitRepo(String projectRoot, String gitconfig, Boolean useCurrentBranch) {
     String gitRoot = findDotGitFolder(new File(projectRoot));
     gitConfigFile = new File(gitRoot, gitconfig);
+    this.useCurrentBranch = useCurrentBranch;
+    gitHeadFilePath = useCurrentBranch ? String.valueOf(Paths.get(gitRoot, ".git/HEAD")) : "";
   }
 
   public abstract String brand();
 
   /* Implement for different repository systems. */
-  abstract String buildUrlFor(String sanitizedUrlValue);
+  abstract String buildUrlFor(String sanitizedUrlValue, Boolean useCurrentBranch, String gitHeadFilePath);
 
   abstract String buildLineDomainPrefix();
+
   abstract String buildLineDomainSuffix();
+
+  public String currentGitBranch() {
+    File gitHeadFile = new File(gitHeadFilePath);
+    BufferedReader reader = null;
+    try {
+      reader = new BufferedReader(new FileReader(gitHeadFile));
+      String line;
+      while ((line = reader.readLine()) != null) {
+        Matcher matcher = HEAD_BRANCH.matcher(line);
+        if (matcher.matches()) {
+          return matcher.group(1);
+        }
+      }
+      throw new RuntimeException("Did not find [remote \"origin\"] url set in " + gitHeadFile);
+    } catch (IOException e) {
+      throw new RuntimeException("File " + gitHeadFile + " does not exist.", e);
+    } finally {
+      if (reader != null) {
+        try {
+          reader.close();
+        } catch (IOException ignored) {
+        }
+      }
+    }
+  }
 
   public String repoUrlFor(String relativeFilePath) {
     return repoUrlFor(relativeFilePath, null, null);
@@ -40,7 +72,7 @@ public abstract class GitRepo {
   public String repoUrlFor(String filePath, Integer lineStart, Integer lineEnd) {
     filePath = filePath.replaceFirst(gitConfigFile.getParentFile().getParent(), "");
     return gitBaseUrl() + filePath + (lineStart != null ? buildLineDomainPrefix() + lineStart : "")
-            + ((lineEnd != null && lineEnd > lineStart) ? buildLineDomainSuffix() + lineEnd : "");
+        + ((lineEnd != null && lineEnd > lineStart) ? buildLineDomainSuffix() + lineEnd : "");
   }
 
   String findDotGitFolder(File absolutePath) {
@@ -49,7 +81,8 @@ public abstract class GitRepo {
           "Could not find parent .git/ folder. Maybe path is not in a git repo? " + absolutePath);
     }
     FileFilter gitFolderFinder = new FileFilter() {
-      @Override public boolean accept(File pathname) {
+      @Override
+      public boolean accept(File pathname) {
         return pathname.getName().equals(".git");
       }
     };
@@ -77,7 +110,7 @@ public abstract class GitRepo {
         if (inRemoteOriginSection && matcher.matches()) {
           return buildUrlFor(matcher.group(1)
               .replaceAll("ssh://|git://|git@|https://", "")
-              .replaceAll(":", "/"));
+              .replaceAll(":", "/"), useCurrentBranch, gitHeadFilePath);
         }
       }
       throw new RuntimeException("Did not find [remote \"origin\"] url set in " + gitConfigFile);

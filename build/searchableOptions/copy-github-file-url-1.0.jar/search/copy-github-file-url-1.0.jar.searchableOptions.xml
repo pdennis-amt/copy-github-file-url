@@ -1,5 +1,12 @@
 <options>
   <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="and" path="ActionManager" hit="Copy URL and Open Github (Current Branch)" />
+    <option name="branch" path="ActionManager" hit="Copy URL and Open Github (Current Branch)" />
+    <option name="copy" path="ActionManager" hit="Copy URL and Open Github (Current Branch)" />
+    <option name="current" path="ActionManager" hit="Copy URL and Open Github (Current Branch)" />
+    <option name="github" path="ActionManager" hit="Copy URL and Open Github (Current Branch)" />
+    <option name="open" path="ActionManager" hit="Copy URL and Open Github (Current Branch)" />
+    <option name="url" path="ActionManager" hit="Copy URL and Open Github (Current Branch)" />
     <option name="and" path="ActionManager" hit="Copy URL and Open Github (Master)" />
     <option name="copy" path="ActionManager" hit="Copy URL and Open Github (Master)" />
     <option name="github" path="ActionManager" hit="Copy URL and Open Github (Master)" />
@@ -19,5 +26,18 @@
     <option name="this" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
     <option name="to" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
     <option name="url" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="and" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="branch" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="copy" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="current" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="file" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="github" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="in" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="open" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="the" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="this" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="to" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="url" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
+    <option name="using" path="ActionManager" hit="Copy and open the URL to this file in Github, using the current branch" />
   </configurable>
 </options>
