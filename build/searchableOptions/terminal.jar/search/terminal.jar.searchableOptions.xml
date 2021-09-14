@@ -99,10 +99,10 @@
     <option name="on" hit="Copy to clipboard on selection" />
     <option name="selection" hit="Copy to clipboard on selection" />
     <option name="to" hit="Copy to clipboard on selection" />
-    <option name="cursor" hit="Cursor shape:" />
-    <option name="shape" hit="Cursor shape:" />
-    <option name="environment" hit="Environment variables:" />
-    <option name="variables" hit="Environment variables:" />
+    <option name="cursor" hit="Cursor shape " />
+    <option name="shape" hit="Cursor shape " />
+    <option name="environment" hit="Environment variables " />
+    <option name="variables" hit="Environment variables " />
     <option name="highlight" hit="Highlight hyperlinks" />
     <option name="hyperlinks" hit="Highlight hyperlinks" />
     <option name="mouse" hit="Mouse reporting" />
@@ -124,12 +124,12 @@
     <option name="using" hit="Run Commands using IDE" />
     <option name="integration" hit="Shell integration" />
     <option name="shell" hit="Shell integration" />
-    <option name="path" hit="Shell path:" />
-    <option name="shell" hit="Shell path:" />
-    <option name="directory" hit="Start directory:" />
-    <option name="start" hit="Start directory:" />
-    <option name="name" hit="Tab name:" />
-    <option name="tab" hit="Tab name:" />
+    <option name="path" hit="Shell path " />
+    <option name="shell" hit="Shell path " />
+    <option name="directory" hit="Start directory " />
+    <option name="start" hit="Start directory " />
+    <option name="name" hit="Tab name " />
+    <option name="tab" hit="Tab name " />
     <option name="terminal" hit="Terminal" />
     <option name="underline" hit="Underline" />
     <option name="as" hit="Use Option as Meta key" />

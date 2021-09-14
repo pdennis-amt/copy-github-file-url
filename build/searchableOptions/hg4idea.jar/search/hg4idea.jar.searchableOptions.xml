@@ -173,11 +173,11 @@
     <option name="in" hit="Ignore whitespace differences in annotations" />
     <option name="whitespace" hit="Ignore whitespace differences in annotations" />
     <option name="mercurial" hit="Mercurial" />
-    <option name="" hit="Path to Mercurial executable:" />
-    <option name="executable" hit="Path to Mercurial executable:" />
-    <option name="mercurial" hit="Path to Mercurial executable:" />
-    <option name="path" hit="Path to Mercurial executable:" />
-    <option name="to" hit="Path to Mercurial executable:" />
+    <option name="" hit="Path to Mercurial executable " />
+    <option name="executable" hit="Path to Mercurial executable " />
+    <option name="mercurial" hit="Path to Mercurial executable " />
+    <option name="path" hit="Path to Mercurial executable " />
+    <option name="to" hit="Path to Mercurial executable " />
     <option name="current" hit="Set this path only for the current project" />
     <option name="for" hit="Set this path only for the current project" />
     <option name="only" hit="Set this path only for the current project" />

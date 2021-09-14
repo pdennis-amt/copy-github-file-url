@@ -69,29 +69,29 @@
     <option name="me" hit="Code With Me" />
     <option name="with" hit="Code With Me" />
     <option name="instruction" hit="Instruction" />
-    <option name="lobby" hit="Lobby server URL:" />
-    <option name="server" hit="Lobby server URL:" />
-    <option name="url" hit="Lobby server URL:" />
-    <option name="colors" hit="Manage user's colors" />
-    <option name="manage" hit="Manage user's colors" />
-    <option name="s" hit="Manage user's colors" />
-    <option name="user" hit="Manage user's colors" />
-    <option name="and" hit="Set up private on-premise lobby and relay servers" />
-    <option name="lobby" hit="Set up private on-premise lobby and relay servers" />
-    <option name="on" hit="Set up private on-premise lobby and relay servers" />
-    <option name="premise" hit="Set up private on-premise lobby and relay servers" />
-    <option name="private" hit="Set up private on-premise lobby and relay servers" />
-    <option name="relay" hit="Set up private on-premise lobby and relay servers" />
-    <option name="servers" hit="Set up private on-premise lobby and relay servers" />
-    <option name="set" hit="Set up private on-premise lobby and relay servers" />
-    <option name="up" hit="Set up private on-premise lobby and relay servers" />
+    <option name="lobby" hit="Lobby server URL " />
+    <option name="server" hit="Lobby server URL " />
+    <option name="url" hit="Lobby server URL " />
+    <option name="colors" hit="Manage user s colors" />
+    <option name="manage" hit="Manage user s colors" />
+    <option name="s" hit="Manage user s colors" />
+    <option name="user" hit="Manage user s colors" />
+    <option name="and" hit="Set up private on premise lobby and relay servers" />
+    <option name="lobby" hit="Set up private on premise lobby and relay servers" />
+    <option name="on" hit="Set up private on premise lobby and relay servers" />
+    <option name="premise" hit="Set up private on premise lobby and relay servers" />
+    <option name="private" hit="Set up private on premise lobby and relay servers" />
+    <option name="relay" hit="Set up private on premise lobby and relay servers" />
+    <option name="servers" hit="Set up private on premise lobby and relay servers" />
+    <option name="set" hit="Set up private on premise lobby and relay servers" />
+    <option name="up" hit="Set up private on premise lobby and relay servers" />
     <option name="jetbrains" hit="Use JetBrains Server" />
     <option name="server" hit="Use JetBrains Server" />
     <option name="use" hit="Use JetBrains Server" />
     <option name="name" hit="Use System Name" />
     <option name="system" hit="Use System Name" />
     <option name="use" hit="Use System Name" />
-    <option name="name" hit="User name:" />
-    <option name="user" hit="User name:" />
+    <option name="name" hit="User name " />
+    <option name="user" hit="User name " />
   </configurable>
 </options>

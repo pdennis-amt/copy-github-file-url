@@ -17,12 +17,24 @@ dependencies {
 
 // See https://github.com/JetBrains/gradle-intellij-plugin/
 intellij {
-    version = '2021.2.1'
+    version = '212.4746.92'
 }
+
 patchPluginXml {
+    sinceBuild = intellij.version
+    untilBuild = null
+    version = project.version
+    pluginDescription = """For projects with git repos in the base, it allows you to copy the current file's path on
+      master, and open that with the default browser.<br>
+
+      Handy when you want to quickly navigate to a file in Intellij and then copy the Github
+      link (including line number) to share with someone else as a URL.<br>"""
     changeNotes = """
-      Add change notes here.<br>
-      <em>most HTML tags may be used</em>"""
+<p>0.1</p>
+<ul>
+    <li>First edition of the plugin.</li>
+</ul>"""
+    version project.version
 }
 test {
     useJUnitPlatform()

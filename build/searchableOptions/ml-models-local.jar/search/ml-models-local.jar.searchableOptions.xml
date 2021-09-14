@@ -1,0 +1,13 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="" path="ActionManager" hit="" />
+    <option name="current" path="ActionManager" hit="Train Local ML Models for the Current Project" />
+    <option name="for" path="ActionManager" hit="Train Local ML Models for the Current Project" />
+    <option name="local" path="ActionManager" hit="Train Local ML Models for the Current Project" />
+    <option name="ml" path="ActionManager" hit="Train Local ML Models for the Current Project" />
+    <option name="models" path="ActionManager" hit="Train Local ML Models for the Current Project" />
+    <option name="project" path="ActionManager" hit="Train Local ML Models for the Current Project" />
+    <option name="the" path="ActionManager" hit="Train Local ML Models for the Current Project" />
+    <option name="train" path="ActionManager" hit="Train Local ML Models for the Current Project" />
+  </configurable>
+</options>

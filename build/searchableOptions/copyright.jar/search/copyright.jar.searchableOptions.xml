@@ -11,9 +11,9 @@
   </configurable>
   <configurable id="copyright" configurable_name="Copyright">
     <option name="copyright" hit="Copyright" />
-    <option name="copyright" hit="Default project copyright:" />
-    <option name="default" hit="Default project copyright:" />
-    <option name="project" hit="Default project copyright:" />
+    <option name="copyright" hit="Default project copyright " />
+    <option name="default" hit="Default project copyright " />
+    <option name="project" hit="Default project copyright " />
     <option name="copyright" hit="No copyright" />
     <option name="no" hit="No copyright" />
   </configurable>
@@ -52,7 +52,7 @@
     <option name="comment" hit="Comment Type" />
     <option name="type" hit="Comment Type" />
     <option name="formatting" hit="Formatting" />
-    <option name="length" hit="Length:" />
+    <option name="length" hit="Length " />
     <option name="copyright" hit="No copyright" />
     <option name="no" hit="No copyright" />
     <option name="each" hit="Prefix each line" />
@@ -60,11 +60,11 @@
     <option name="prefix" hit="Prefix each line" />
     <option name="location" hit="Relative Location" />
     <option name="relative" hit="Relative Location" />
+    <option name="separator" hit="Separator " />
     <option name="after" hit="Separator after" />
     <option name="separator" hit="Separator after" />
     <option name="before" hit="Separator before" />
     <option name="separator" hit="Separator before" />
-    <option name="separator" hit="Separator:" />
     <option name="block" hit="Use block comment" />
     <option name="comment" hit="Use block comment" />
     <option name="use" hit="Use block comment" />
@@ -99,7 +99,7 @@
     <option name="comment" hit="Comment Type" />
     <option name="type" hit="Comment Type" />
     <option name="dtd" hit="DTD" />
-    <option name="length" hit="Length:" />
+    <option name="length" hit="Length " />
     <option name="copyright" hit="No copyright" />
     <option name="no" hit="No copyright" />
     <option name="each" hit="Prefix each line" />
@@ -107,11 +107,11 @@
     <option name="prefix" hit="Prefix each line" />
     <option name="location" hit="Relative Location" />
     <option name="relative" hit="Relative Location" />
+    <option name="separator" hit="Separator " />
     <option name="after" hit="Separator after" />
     <option name="separator" hit="Separator after" />
     <option name="before" hit="Separator before" />
     <option name="separator" hit="Separator before" />
-    <option name="separator" hit="Separator:" />
     <option name="block" hit="Use block comment" />
     <option name="comment" hit="Use block comment" />
     <option name="use" hit="Use block comment" />
@@ -151,7 +151,7 @@
     <option name="comment" hit="Comment Type" />
     <option name="type" hit="Comment Type" />
     <option name="html" hit="HTML" />
-    <option name="length" hit="Length:" />
+    <option name="length" hit="Length " />
     <option name="file" hit="Location in File" />
     <option name="in" hit="Location in File" />
     <option name="location" hit="Location in File" />
@@ -162,11 +162,11 @@
     <option name="prefix" hit="Prefix each line" />
     <option name="location" hit="Relative Location" />
     <option name="relative" hit="Relative Location" />
+    <option name="separator" hit="Separator " />
     <option name="after" hit="Separator after" />
     <option name="separator" hit="Separator after" />
     <option name="before" hit="Separator before" />
     <option name="separator" hit="Separator before" />
-    <option name="separator" hit="Separator:" />
     <option name="block" hit="Use block comment" />
     <option name="comment" hit="Use block comment" />
     <option name="use" hit="Use block comment" />
@@ -200,7 +200,7 @@
     <option name="box" hit="Box" />
     <option name="comment" hit="Comment Type" />
     <option name="type" hit="Comment Type" />
-    <option name="length" hit="Length:" />
+    <option name="length" hit="Length " />
     <option name="copyright" hit="No copyright" />
     <option name="no" hit="No copyright" />
     <option name="each" hit="Prefix each line" />
@@ -209,11 +209,11 @@
     <option name="properties" hit="Properties" />
     <option name="location" hit="Relative Location" />
     <option name="relative" hit="Relative Location" />
+    <option name="separator" hit="Separator " />
     <option name="after" hit="Separator after" />
     <option name="separator" hit="Separator after" />
     <option name="before" hit="Separator before" />
     <option name="separator" hit="Separator before" />
-    <option name="separator" hit="Separator:" />
     <option name="block" hit="Use block comment" />
     <option name="comment" hit="Use block comment" />
     <option name="use" hit="Use block comment" />
@@ -247,7 +247,7 @@
     <option name="box" hit="Box" />
     <option name="comment" hit="Comment Type" />
     <option name="type" hit="Comment Type" />
-    <option name="length" hit="Length:" />
+    <option name="length" hit="Length " />
     <option name="copyright" hit="No copyright" />
     <option name="no" hit="No copyright" />
     <option name="each" hit="Prefix each line" />
@@ -255,11 +255,11 @@
     <option name="prefix" hit="Prefix each line" />
     <option name="location" hit="Relative Location" />
     <option name="relative" hit="Relative Location" />
+    <option name="separator" hit="Separator " />
     <option name="after" hit="Separator after" />
     <option name="separator" hit="Separator after" />
     <option name="before" hit="Separator before" />
     <option name="separator" hit="Separator before" />
-    <option name="separator" hit="Separator:" />
     <option name="block" hit="Use block comment" />
     <option name="comment" hit="Use block comment" />
     <option name="use" hit="Use block comment" />
@@ -299,7 +299,7 @@
     <option name="box" hit="Box" />
     <option name="comment" hit="Comment Type" />
     <option name="type" hit="Comment Type" />
-    <option name="length" hit="Length:" />
+    <option name="length" hit="Length " />
     <option name="file" hit="Location in File" />
     <option name="in" hit="Location in File" />
     <option name="location" hit="Location in File" />
@@ -310,11 +310,11 @@
     <option name="prefix" hit="Prefix each line" />
     <option name="location" hit="Relative Location" />
     <option name="relative" hit="Relative Location" />
+    <option name="separator" hit="Separator " />
     <option name="after" hit="Separator after" />
     <option name="separator" hit="Separator after" />
     <option name="before" hit="Separator before" />
     <option name="separator" hit="Separator before" />
-    <option name="separator" hit="Separator:" />
     <option name="block" hit="Use block comment" />
     <option name="comment" hit="Use block comment" />
     <option name="use" hit="Use block comment" />

@@ -323,13 +323,13 @@
     <option name="may" hit="   May cause serialization issues in the debugged application   " />
     <option name="serialization" hit="   May cause serialization issues in the debugged application   " />
     <option name="the" hit="   May cause serialization issues in the debugged application   " />
-    <option name="agent" hit="Enable hot-swap agent for Groovy code" />
-    <option name="code" hit="Enable hot-swap agent for Groovy code" />
-    <option name="enable" hit="Enable hot-swap agent for Groovy code" />
-    <option name="for" hit="Enable hot-swap agent for Groovy code" />
-    <option name="groovy" hit="Enable hot-swap agent for Groovy code" />
-    <option name="hot" hit="Enable hot-swap agent for Groovy code" />
-    <option name="swap" hit="Enable hot-swap agent for Groovy code" />
+    <option name="agent" hit="Enable hot swap agent for Groovy code" />
+    <option name="code" hit="Enable hot swap agent for Groovy code" />
+    <option name="enable" hit="Enable hot swap agent for Groovy code" />
+    <option name="for" hit="Enable hot swap agent for Groovy code" />
+    <option name="groovy" hit="Enable hot swap agent for Groovy code" />
+    <option name="hot" hit="Enable hot swap agent for Groovy code" />
+    <option name="swap" hit="Enable hot swap agent for Groovy code" />
     <option name="groovy" hit="Groovy" />
   </configurable>
   <configurable id="preferences.sourceCode.Groovy" configurable_name="Groovy">
@@ -340,37 +340,37 @@
     <option name="comment" path="Code Generation" hit="Add a space at comment start" />
     <option name="space" path="Code Generation" hit="Add a space at comment start" />
     <option name="start" path="Code Generation" hit="Add a space at comment start" />
-    <option name="after" path="Blank Lines" hit="After class header:" />
-    <option name="class" path="Blank Lines" hit="After class header:" />
-    <option name="header" path="Blank Lines" hit="After class header:" />
-    <option name="after" path="Blank Lines" hit="After imports:" />
-    <option name="imports" path="Blank Lines" hit="After imports:" />
-    <option name="after" path="Blank Lines" hit="After package statement:" />
-    <option name="package" path="Blank Lines" hit="After package statement:" />
-    <option name="statement" path="Blank Lines" hit="After package statement:" />
-    <option name="around" path="Blank Lines" hit="Around class:" />
-    <option name="class" path="Blank Lines" hit="Around class:" />
-    <option name="around" path="Blank Lines" hit="Around field in interface:" />
-    <option name="field" path="Blank Lines" hit="Around field in interface:" />
-    <option name="in" path="Blank Lines" hit="Around field in interface:" />
-    <option name="interface" path="Blank Lines" hit="Around field in interface:" />
-    <option name="around" path="Blank Lines" hit="Around field:" />
-    <option name="field" path="Blank Lines" hit="Around field:" />
-    <option name="around" path="Blank Lines" hit="Around method in interface:" />
-    <option name="in" path="Blank Lines" hit="Around method in interface:" />
-    <option name="interface" path="Blank Lines" hit="Around method in interface:" />
-    <option name="method" path="Blank Lines" hit="Around method in interface:" />
-    <option name="around" path="Blank Lines" hit="Around method:" />
-    <option name="method" path="Blank Lines" hit="Around method:" />
-    <option name="before" path="Blank Lines" hit="Before '}':" />
-    <option name="before" path="Blank Lines" hit="Before imports:" />
-    <option name="imports" path="Blank Lines" hit="Before imports:" />
-    <option name="before" path="Blank Lines" hit="Before method body:" />
-    <option name="body" path="Blank Lines" hit="Before method body:" />
-    <option name="method" path="Blank Lines" hit="Before method body:" />
-    <option name="before" path="Blank Lines" hit="Before package statement:" />
-    <option name="package" path="Blank Lines" hit="Before package statement:" />
-    <option name="statement" path="Blank Lines" hit="Before package statement:" />
+    <option name="after" path="Blank Lines" hit="After class header " />
+    <option name="class" path="Blank Lines" hit="After class header " />
+    <option name="header" path="Blank Lines" hit="After class header " />
+    <option name="after" path="Blank Lines" hit="After imports " />
+    <option name="imports" path="Blank Lines" hit="After imports " />
+    <option name="after" path="Blank Lines" hit="After package statement " />
+    <option name="package" path="Blank Lines" hit="After package statement " />
+    <option name="statement" path="Blank Lines" hit="After package statement " />
+    <option name="around" path="Blank Lines" hit="Around class " />
+    <option name="class" path="Blank Lines" hit="Around class " />
+    <option name="around" path="Blank Lines" hit="Around field " />
+    <option name="field" path="Blank Lines" hit="Around field " />
+    <option name="around" path="Blank Lines" hit="Around field in interface " />
+    <option name="field" path="Blank Lines" hit="Around field in interface " />
+    <option name="in" path="Blank Lines" hit="Around field in interface " />
+    <option name="interface" path="Blank Lines" hit="Around field in interface " />
+    <option name="around" path="Blank Lines" hit="Around method " />
+    <option name="method" path="Blank Lines" hit="Around method " />
+    <option name="around" path="Blank Lines" hit="Around method in interface " />
+    <option name="in" path="Blank Lines" hit="Around method in interface " />
+    <option name="interface" path="Blank Lines" hit="Around method in interface " />
+    <option name="method" path="Blank Lines" hit="Around method in interface " />
+    <option name="before" path="Blank Lines" hit="Before     " />
+    <option name="before" path="Blank Lines" hit="Before imports " />
+    <option name="imports" path="Blank Lines" hit="Before imports " />
+    <option name="before" path="Blank Lines" hit="Before method body " />
+    <option name="body" path="Blank Lines" hit="Before method body " />
+    <option name="method" path="Blank Lines" hit="Before method body " />
+    <option name="before" path="Blank Lines" hit="Before package statement " />
+    <option name="package" path="Blank Lines" hit="Before package statement " />
+    <option name="statement" path="Blank Lines" hit="Before package statement " />
     <option name="blank" path="Blank Lines" hit="Blank Lines" />
     <option name="lines" path="Blank Lines" hit="Blank Lines" />
     <option name="at" path="Code Generation" hit="Block comment at first column" />
@@ -378,35 +378,35 @@
     <option name="column" path="Code Generation" hit="Block comment at first column" />
     <option name="comment" path="Code Generation" hit="Block comment at first column" />
     <option name="first" path="Code Generation" hit="Block comment at first column" />
-    <option name="class" path="Imports" hit="Class count to use import with '*':" />
-    <option name="count" path="Imports" hit="Class count to use import with '*':" />
-    <option name="import" path="Imports" hit="Class count to use import with '*':" />
-    <option name="to" path="Imports" hit="Class count to use import with '*':" />
-    <option name="use" path="Imports" hit="Class count to use import with '*':" />
-    <option name="with" path="Imports" hit="Class count to use import with '*':" />
+    <option name="class" path="Imports" hit="Class count to use import with     " />
+    <option name="count" path="Imports" hit="Class count to use import with     " />
+    <option name="import" path="Imports" hit="Class count to use import with     " />
+    <option name="to" path="Imports" hit="Class count to use import with     " />
+    <option name="use" path="Imports" hit="Class count to use import with     " />
+    <option name="with" path="Imports" hit="Class count to use import with     " />
     <option name="code" path="Code Generation" hit="Code Generation" />
     <option name="generation" path="Code Generation" hit="Code Generation" />
     <option name="code" path="Code Generation" hit="Comment Code" />
     <option name="comment" path="Code Generation" hit="Comment Code" />
-    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
-    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent " />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent " />
     <option name="disable" hit="Disable" />
     <option name="general" path="Imports" hit="General" />
     <option name="groovy" hit="Groovy" />
     <option name="import" path="Imports" hit="Import Layout" />
     <option name="layout" path="Imports" hit="Import Layout" />
     <option name="imports" path="Imports" hit="Imports" />
-    <option name="code" path="Blank Lines" hit="In code:" />
-    <option name="in" path="Blank Lines" hit="In code:" />
-    <option name="declarations" path="Blank Lines" hit="In declarations:" />
-    <option name="in" path="Blank Lines" hit="In declarations:" />
+    <option name="code" path="Blank Lines" hit="In code " />
+    <option name="in" path="Blank Lines" hit="In code " />
+    <option name="declarations" path="Blank Lines" hit="In declarations " />
+    <option name="in" path="Blank Lines" hit="In declarations " />
+    <option name="indent" path="Tabs and Indents" hit="Indent " />
     <option name="indent" path="Tabs and Indents" hit="Indent labels" />
     <option name="labels" path="Tabs and Indents" hit="Indent labels" />
     <option name="after" path="Tabs and Indents" hit="Indent statements after label" />
     <option name="indent" path="Tabs and Indents" hit="Indent statements after label" />
     <option name="label" path="Tabs and Indents" hit="Indent statements after label" />
     <option name="statements" path="Tabs and Indents" hit="Indent statements after label" />
-    <option name="indent" path="Tabs and Indents" hit="Indent:" />
     <option name="classes" path="Imports" hit="Insert imports for inner classes" />
     <option name="for" path="Imports" hit="Insert imports for inner classes" />
     <option name="imports" path="Imports" hit="Insert imports for inner classes" />
@@ -421,11 +421,11 @@
     <option name="keep" path="Blank Lines" hit="Keep maximum blank lines" />
     <option name="lines" path="Blank Lines" hit="Keep maximum blank lines" />
     <option name="maximum" path="Blank Lines" hit="Keep maximum blank lines" />
-    <option name="indent" path="Tabs and Indents" hit="Label indent style:" />
-    <option name="label" path="Tabs and Indents" hit="Label indent style:" />
-    <option name="style" path="Tabs and Indents" hit="Label indent style:" />
-    <option name="indent" path="Tabs and Indents" hit="Label indent:" />
-    <option name="label" path="Tabs and Indents" hit="Label indent:" />
+    <option name="indent" path="Tabs and Indents" hit="Label indent " />
+    <option name="label" path="Tabs and Indents" hit="Label indent " />
+    <option name="indent" path="Tabs and Indents" hit="Label indent style " />
+    <option name="label" path="Tabs and Indents" hit="Label indent style " />
+    <option name="style" path="Tabs and Indents" hit="Label indent style " />
     <option name="imports" path="Imports" hit="Layout static imports separately" />
     <option name="layout" path="Imports" hit="Layout static imports separately" />
     <option name="separately" path="Imports" hit="Layout static imports separately" />
@@ -435,28 +435,28 @@
     <option name="comment" path="Code Generation" hit="Line comment at first column" />
     <option name="first" path="Code Generation" hit="Line comment at first column" />
     <option name="line" path="Code Generation" hit="Line comment at first column" />
-    <option name="loading" hit="Loading..." />
+    <option name="loading" hit="Loading   " />
     <option name="blank" path="Blank Lines" hit="Minimum blank lines" />
     <option name="lines" path="Blank Lines" hit="Minimum blank lines" />
     <option name="minimum" path="Blank Lines" hit="Minimum blank lines" />
-    <option name="count" path="Imports" hit="Names count to use static import with '*':" />
-    <option name="import" path="Imports" hit="Names count to use static import with '*':" />
-    <option name="names" path="Imports" hit="Names count to use static import with '*':" />
-    <option name="static" path="Imports" hit="Names count to use static import with '*':" />
-    <option name="to" path="Imports" hit="Names count to use static import with '*':" />
-    <option name="use" path="Imports" hit="Names count to use static import with '*':" />
-    <option name="with" path="Imports" hit="Names count to use static import with '*':" />
+    <option name="count" path="Imports" hit="Names count to use static import with     " />
+    <option name="import" path="Imports" hit="Names count to use static import with     " />
+    <option name="names" path="Imports" hit="Names count to use static import with     " />
+    <option name="static" path="Imports" hit="Names count to use static import with     " />
+    <option name="to" path="Imports" hit="Names count to use static import with     " />
+    <option name="use" path="Imports" hit="Names count to use static import with     " />
+    <option name="with" path="Imports" hit="Names count to use static import with     " />
     <option name="members" path="Code Generation" hit="Order of Members" />
     <option name="of" path="Code Generation" hit="Order of Members" />
     <option name="order" path="Code Generation" hit="Order of Members" />
-    <option name="scheme" hit="Scheme:" />
-    <option name="from" hit="Set from..." />
-    <option name="set" hit="Set from..." />
+    <option name="scheme" hit="Scheme " />
+    <option name="from" hit="Set from   " />
+    <option name="set" hit="Set from   " />
     <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
     <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
     <option name="spaces" path="Spaces" hit="Spaces" />
-    <option name="size" path="Tabs and Indents" hit="Tab size:" />
-    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="size" path="Tabs and Indents" hit="Tab size " />
+    <option name="tab" path="Tabs and Indents" hit="Tab size " />
     <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
     <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
     <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />
@@ -1014,7 +1014,7 @@
     <option name="comment" hit="Comment Type" />
     <option name="type" hit="Comment Type" />
     <option name="groovy" hit="Groovy" />
-    <option name="length" hit="Length:" />
+    <option name="length" hit="Length " />
     <option name="copyright" hit="No copyright" />
     <option name="no" hit="No copyright" />
     <option name="each" hit="Prefix each line" />
@@ -1022,11 +1022,11 @@
     <option name="prefix" hit="Prefix each line" />
     <option name="location" hit="Relative Location" />
     <option name="relative" hit="Relative Location" />
+    <option name="separator" hit="Separator " />
     <option name="after" hit="Separator after" />
     <option name="separator" hit="Separator after" />
     <option name="before" hit="Separator before" />
     <option name="separator" hit="Separator before" />
-    <option name="separator" hit="Separator:" />
     <option name="block" hit="Use block comment" />
     <option name="comment" hit="Use block comment" />
     <option name="use" hit="Use block comment" />
@@ -1042,40 +1042,40 @@
     <option name="use" hit="Use line comment" />
   </configurable>
   <configurable id="reference.projectsettings.compiler.javacompiler" configurable_name="Java Compiler">
-    <option name="additional" hit="Additional command line parameters:" />
-    <option name="command" hit="Additional command line parameters:" />
-    <option name="line" hit="Additional command line parameters:" />
-    <option name="parameters" hit="Additional command line parameters:" />
+    <option name="additional" hit="Additional command line parameters " />
+    <option name="command" hit="Additional command line parameters " />
+    <option name="line" hit="Additional command line parameters " />
+    <option name="parameters" hit="Additional command line parameters " />
     <option name="debug" hit="Generate debug info" />
     <option name="generate" hit="Generate debug info" />
     <option name="info" hit="Generate debug info" />
-    <option name="eclipse" hit="Groovy-Eclipse options" />
-    <option name="groovy" hit="Groovy-Eclipse options" />
-    <option name="options" hit="Groovy-Eclipse options" />
-    <option name="batch" hit="Path to groovy-eclipse-batch jar:" />
-    <option name="eclipse" hit="Path to groovy-eclipse-batch jar:" />
-    <option name="groovy" hit="Path to groovy-eclipse-batch jar:" />
-    <option name="jar" hit="Path to groovy-eclipse-batch jar:" />
-    <option name="path" hit="Path to groovy-eclipse-batch jar:" />
-    <option name="to" hit="Path to groovy-eclipse-batch jar:" />
+    <option name="eclipse" hit="Groovy Eclipse options" />
+    <option name="groovy" hit="Groovy Eclipse options" />
+    <option name="options" hit="Groovy Eclipse options" />
+    <option name="batch" hit="Path to groovy eclipse batch jar " />
+    <option name="eclipse" hit="Path to groovy eclipse batch jar " />
+    <option name="groovy" hit="Path to groovy eclipse batch jar " />
+    <option name="jar" hit="Path to groovy eclipse batch jar " />
+    <option name="path" hit="Path to groovy eclipse batch jar " />
+    <option name="to" hit="Path to groovy eclipse batch jar " />
   </configurable>
   <configurable id="Groovy compiler" configurable_name="Groovy Compiler">
-    <option name="exclude" hit="Exclude from stub generation:" />
-    <option name="from" hit="Exclude from stub generation:" />
-    <option name="generation" hit="Exclude from stub generation:" />
-    <option name="stub" hit="Exclude from stub generation:" />
+    <option name="exclude" hit="Exclude from stub generation " />
+    <option name="from" hit="Exclude from stub generation " />
+    <option name="generation" hit="Exclude from stub generation " />
+    <option name="stub" hit="Exclude from stub generation " />
     <option name="compiler" hit="Groovy Compiler" />
     <option name="groovy" hit="Groovy Compiler" />
     <option name="dynamic" hit="Invoke dynamic support" />
     <option name="invoke" hit="Invoke dynamic support" />
     <option name="support" hit="Invoke dynamic support" />
-    <option name="configscript" hit="Path to configscript:" />
-    <option name="path" hit="Path to configscript:" />
-    <option name="to" hit="Path to configscript:" />
+    <option name="configscript" hit="Path to configscript " />
+    <option name="path" hit="Path to configscript " />
+    <option name="to" hit="Path to configscript " />
   </configurable>
   <configurable id="reference.settingsdialog.project.gant" configurable_name="Gant">
     <option name="gant" hit="Gant" />
-    <option name="gant" hit="Gant home:" />
-    <option name="home" hit="Gant home:" />
+    <option name="gant" hit="Gant home " />
+    <option name="home" hit="Gant home " />
   </configurable>
 </options>

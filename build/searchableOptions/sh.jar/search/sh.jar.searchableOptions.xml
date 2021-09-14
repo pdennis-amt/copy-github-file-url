@@ -87,49 +87,49 @@
     <option name="breaks" hit="Allow line breaks after binary operators" />
     <option name="line" hit="Allow line breaks after binary operators" />
     <option name="operators" hit="Allow line breaks after binary operators" />
-    <option name="can" hit="Can't download shfmt formatter. Install it manually." />
-    <option name="download" hit="Can't download shfmt formatter. Install it manually." />
-    <option name="formatter" hit="Can't download shfmt formatter. Install it manually." />
-    <option name="install" hit="Can't download shfmt formatter. Install it manually." />
-    <option name="it" hit="Can't download shfmt formatter. Install it manually." />
-    <option name="manually" hit="Can't download shfmt formatter. Install it manually." />
-    <option name="shfmt" hit="Can't download shfmt formatter. Install it manually." />
-    <option name="t" hit="Can't download shfmt formatter. Install it manually." />
+    <option name="can" hit="Can t download shfmt formatter  Install it manually " />
+    <option name="download" hit="Can t download shfmt formatter  Install it manually " />
+    <option name="formatter" hit="Can t download shfmt formatter  Install it manually " />
+    <option name="install" hit="Can t download shfmt formatter  Install it manually " />
+    <option name="it" hit="Can t download shfmt formatter  Install it manually " />
+    <option name="manually" hit="Can t download shfmt formatter  Install it manually " />
+    <option name="shfmt" hit="Can t download shfmt formatter  Install it manually " />
+    <option name="t" hit="Can t download shfmt formatter  Install it manually " />
     <option name="disable" hit="Disable" />
     <option name="download" hit="Download" />
     <option name="indent" hit="Indent" />
+    <option name="indent" hit="Indent " />
     <option name="case" hit="Indent case statements" />
     <option name="indent" hit="Indent case statements" />
     <option name="statements" hit="Indent case statements" />
-    <option name="indent" hit="Indent:" />
-    <option name="invalid" hit="Invalid path." />
-    <option name="path" hit="Invalid path." />
+    <option name="invalid" hit="Invalid path " />
+    <option name="path" hit="Invalid path " />
     <option name="alignment" hit="Keep column alignment padding" />
     <option name="column" hit="Keep column alignment padding" />
     <option name="keep" hit="Keep column alignment padding" />
     <option name="padding" hit="Keep column alignment padding" />
-    <option name="loading" hit="Loading..." />
+    <option name="loading" hit="Loading   " />
     <option name="its" hit="Minify program to reduce its size" />
     <option name="minify" hit="Minify program to reduce its size" />
     <option name="program" hit="Minify program to reduce its size" />
     <option name="reduce" hit="Minify program to reduce its size" />
     <option name="size" hit="Minify program to reduce its size" />
     <option name="to" hit="Minify program to reduce its size" />
-    <option name="path" hit="Path:" />
-    <option name="scheme" hit="Scheme:" />
-    <option name="from" hit="Set from..." />
-    <option name="set" hit="Set from..." />
+    <option name="path" hit="Path " />
+    <option name="scheme" hit="Scheme " />
+    <option name="from" hit="Set from   " />
+    <option name="set" hit="Set from   " />
     <option name="script" hit="Shell Script" />
     <option name="shell" hit="Shell Script" />
     <option name="formatter" hit="Shfmt formatter" />
     <option name="shfmt" hit="Shfmt formatter" />
-    <option name="size" hit="Tab size:" />
-    <option name="tab" hit="Tab size:" />
-    <option name="line" hit="Use Unix line separators (\n)" />
-    <option name="n" hit="Use Unix line separators (\n)" />
-    <option name="separators" hit="Use Unix line separators (\n)" />
-    <option name="unix" hit="Use Unix line separators (\n)" />
-    <option name="use" hit="Use Unix line separators (\n)" />
+    <option name="size" hit="Tab size " />
+    <option name="tab" hit="Tab size " />
+    <option name="line" hit="Use Unix line separators   n " />
+    <option name="n" hit="Use Unix line separators   n " />
+    <option name="separators" hit="Use Unix line separators   n " />
+    <option name="unix" hit="Use Unix line separators   n " />
+    <option name="use" hit="Use Unix line separators   n " />
     <option name="character" hit="Use tab character" />
     <option name="tab" hit="Use tab character" />
     <option name="use" hit="Use tab character" />
@@ -155,7 +155,7 @@
     <option name="box" hit="Box" />
     <option name="comment" hit="Comment Type" />
     <option name="type" hit="Comment Type" />
-    <option name="length" hit="Length:" />
+    <option name="length" hit="Length " />
     <option name="copyright" hit="No copyright" />
     <option name="no" hit="No copyright" />
     <option name="each" hit="Prefix each line" />
@@ -163,11 +163,11 @@
     <option name="prefix" hit="Prefix each line" />
     <option name="location" hit="Relative Location" />
     <option name="relative" hit="Relative Location" />
+    <option name="separator" hit="Separator " />
     <option name="after" hit="Separator after" />
     <option name="separator" hit="Separator after" />
     <option name="before" hit="Separator before" />
     <option name="separator" hit="Separator before" />
-    <option name="separator" hit="Separator:" />
     <option name="script" hit="Shell Script" />
     <option name="shell" hit="Shell Script" />
     <option name="block" hit="Use block comment" />

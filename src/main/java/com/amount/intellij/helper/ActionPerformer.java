@@ -19,6 +19,7 @@ import java.awt.datatransfer.StringSelection;
 import java.io.IOException;
 import java.net.URI;
 import java.net.URISyntaxException;
+import java.util.Objects;
 
 public class ActionPerformer {
   private static final Logger LOG = Logger.getInstance("#" + ActionPerformer.class.getName());
@@ -42,7 +43,7 @@ public class ActionPerformer {
         // convert the VisualPosition to the LogicalPosition to have the correct line number.
         // http://grepcode.com/file/repository.grepcode.com/java/ext/com.jetbrains/intellij-idea/10.0/com/intellij/openapi/editor/LogicalPosition.java#LogicalPosition
         ? editor.visualToLogicalPosition(
-        editor.getSelectionModel().getSelectionStartPosition()).line + 1 : null;
+            Objects.requireNonNull(editor.getSelectionModel().getSelectionStartPosition())).line + 1 : null;
     String url = copyUrl(file, line);
     openBrowser(url);
     showStatusBubble(event, file);

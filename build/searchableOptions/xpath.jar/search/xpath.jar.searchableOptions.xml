@@ -63,11 +63,11 @@
     <option name="result" hit="Add error stripe markers for each result" />
     <option name="stripe" hit="Add error stripe markers for each result" />
     <option name="colors" hit="Colors" />
-    <option name="color" hit="Context node color:" />
-    <option name="context" hit="Context node color:" />
-    <option name="node" hit="Context node color:" />
-    <option name="color" hit="Highlight color:" />
-    <option name="highlight" hit="Highlight color:" />
+    <option name="color" hit="Context node color " />
+    <option name="context" hit="Context node color " />
+    <option name="node" hit="Context node color " />
+    <option name="color" hit="Highlight color " />
+    <option name="highlight" hit="Highlight color " />
     <option name="content" hit="Highlight only start tag instead of whole tag content" />
     <option name="highlight" hit="Highlight only start tag instead of whole tag content" />
     <option name="instead" hit="Highlight only start tag instead of whole tag content" />

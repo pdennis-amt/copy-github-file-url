@@ -122,8 +122,8 @@
     <option name="repositories" hit="Clone git repositories using ssh" />
     <option name="ssh" hit="Clone git repositories using ssh" />
     <option name="using" hit="Clone git repositories using ssh" />
-    <option name="connection" hit="Connection timeout:" />
-    <option name="timeout" hit="Connection timeout:" />
+    <option name="connection" hit="Connection timeout " />
+    <option name="timeout" hit="Connection timeout " />
     <option name="github" hit="GitHub" />
     <option name="seconds" hit="seconds" />
   </configurable>

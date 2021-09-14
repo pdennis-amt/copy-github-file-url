@@ -11,10 +11,10 @@
   <configurable id="editor.preferences.completion" configurable_name="Code Completion">
     <option name="java" hit="Java" />
     <option name="kotlin" hit="Kotlin" />
-    <option name="assisted" hit="Machine Learning-Assisted Completion" />
-    <option name="completion" hit="Machine Learning-Assisted Completion" />
-    <option name="learning" hit="Machine Learning-Assisted Completion" />
-    <option name="machine" hit="Machine Learning-Assisted Completion" />
+    <option name="assisted" hit="Machine Learning Assisted Completion" />
+    <option name="completion" hit="Machine Learning Assisted Completion" />
+    <option name="learning" hit="Machine Learning Assisted Completion" />
+    <option name="machine" hit="Machine Learning Assisted Completion" />
     <option name="changes" hit="Mark position changes in the completion popup" />
     <option name="completion" hit="Mark position changes in the completion popup" />
     <option name="in" hit="Mark position changes in the completion popup" />

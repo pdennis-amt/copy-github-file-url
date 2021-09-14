@@ -1,6 +1,6 @@
 <idea-plugin>
     <id>com.amount.copy-github-file-url</id>
-    <name>Copy &amp; Browse as Github or Atlassian Stash Path</name>
+    <name>Copy &amp; Browse as Github Path</name>
     <vendor email="paul.dennis@amount.com">Amount-Dev</vendor>
 
     <description><![CDATA[

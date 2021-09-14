@@ -54,8 +54,8 @@
     <option name="work" path="ActionManager" hit="Work Offline" />
   </configurable>
   <configurable id="vcs.Perforce" configurable_name="Perforce">
-    <option name="charset" hit="Charset:" />
-    <option name="client" hit="Client:" />
+    <option name="charset" hit="Charset " />
+    <option name="client" hit="Client " />
     <option name="config" hit="Config Settings" />
     <option name="settings" hit="Config Settings" />
     <option name="commands" hit="Dump Perforce Commands to" />
@@ -66,36 +66,36 @@
     <option name="jobs" hit="Enable Perforce Jobs support" />
     <option name="perforce" hit="Enable Perforce Jobs support" />
     <option name="support" hit="Enable Perforce Jobs support" />
-    <option name="config" hit="No P4CONFIG environment variable!" />
-    <option name="environment" hit="No P4CONFIG environment variable!" />
-    <option name="no" hit="No P4CONFIG environment variable!" />
-    <option name="p" hit="No P4CONFIG environment variable!" />
-    <option name="variable" hit="No P4CONFIG environment variable!" />
-    <option name="executable" hit="Path to P4 executable:" />
-    <option name="p" hit="Path to P4 executable:" />
-    <option name="path" hit="Path to P4 executable:" />
-    <option name="to" hit="Path to P4 executable:" />
-    <option name="executable" hit="Path to P4VC executable:" />
-    <option name="p" hit="Path to P4VC executable:" />
-    <option name="path" hit="Path to P4VC executable:" />
-    <option name="to" hit="Path to P4VC executable:" />
-    <option name="vc" hit="Path to P4VC executable:" />
+    <option name="config" hit="No P CONFIG environment variable " />
+    <option name="environment" hit="No P CONFIG environment variable " />
+    <option name="no" hit="No P CONFIG environment variable " />
+    <option name="p" hit="No P CONFIG environment variable " />
+    <option name="variable" hit="No P CONFIG environment variable " />
+    <option name="executable" hit="Path to P  executable " />
+    <option name="p" hit="Path to P  executable " />
+    <option name="path" hit="Path to P  executable " />
+    <option name="to" hit="Path to P  executable " />
+    <option name="executable" hit="Path to P VC executable " />
+    <option name="p" hit="Path to P VC executable " />
+    <option name="path" hit="Path to P VC executable " />
+    <option name="to" hit="Path to P VC executable " />
+    <option name="vc" hit="Path to P VC executable " />
     <option name="perforce" hit="Perforce" />
     <option name="is" hit="Perforce is online" />
     <option name="online" hit="Perforce is online" />
     <option name="perforce" hit="Perforce is online" />
-    <option name="port" hit="Port:" />
+    <option name="port" hit="Port " />
     <option name="server" hit="Server timeout" />
     <option name="timeout" hit="Server timeout" />
-    <option name="action" hit="Show branching history (for &quot;File History&quot; action, &quot;Compare With...&quot; list)" />
-    <option name="branching" hit="Show branching history (for &quot;File History&quot; action, &quot;Compare With...&quot; list)" />
-    <option name="compare" hit="Show branching history (for &quot;File History&quot; action, &quot;Compare With...&quot; list)" />
-    <option name="file" hit="Show branching history (for &quot;File History&quot; action, &quot;Compare With...&quot; list)" />
-    <option name="for" hit="Show branching history (for &quot;File History&quot; action, &quot;Compare With...&quot; list)" />
-    <option name="history" hit="Show branching history (for &quot;File History&quot; action, &quot;Compare With...&quot; list)" />
-    <option name="list" hit="Show branching history (for &quot;File History&quot; action, &quot;Compare With...&quot; list)" />
-    <option name="show" hit="Show branching history (for &quot;File History&quot; action, &quot;Compare With...&quot; list)" />
-    <option name="with" hit="Show branching history (for &quot;File History&quot; action, &quot;Compare With...&quot; list)" />
+    <option name="action" hit="Show branching history  for  File History  action   Compare With     list " />
+    <option name="branching" hit="Show branching history  for  File History  action   Compare With     list " />
+    <option name="compare" hit="Show branching history  for  File History  action   Compare With     list " />
+    <option name="file" hit="Show branching history  for  File History  action   Compare With     list " />
+    <option name="for" hit="Show branching history  for  File History  action   Compare With     list " />
+    <option name="history" hit="Show branching history  for  File History  action   Compare With     list " />
+    <option name="list" hit="Show branching history  for  File History  action   Compare With     list " />
+    <option name="show" hit="Show branching history  for  File History  action   Compare With     list " />
+    <option name="with" hit="Show branching history  for  File History  action   Compare With     list " />
     <option name="changelists" hit="Show integrated changelists in committed changes" />
     <option name="changes" hit="Show integrated changelists in committed changes" />
     <option name="committed" hit="Show integrated changelists in committed changes" />
@@ -113,19 +113,19 @@
     <option name="unavailable" hit="Switch to offline mode automatically if Perforce is unavailable" />
     <option name="connection" hit="Test Connection" />
     <option name="test" hit="Test Connection" />
-    <option name="config" hit="Use P4CONFIG or default connection" />
-    <option name="connection" hit="Use P4CONFIG or default connection" />
-    <option name="default" hit="Use P4CONFIG or default connection" />
-    <option name="or" hit="Use P4CONFIG or default connection" />
-    <option name="p" hit="Use P4CONFIG or default connection" />
-    <option name="use" hit="Use P4CONFIG or default connection" />
-    <option name="connection" hit="Use connection parameters:" />
-    <option name="parameters" hit="Use connection parameters:" />
-    <option name="use" hit="Use connection parameters:" />
+    <option name="config" hit="Use P CONFIG or default connection" />
+    <option name="connection" hit="Use P CONFIG or default connection" />
+    <option name="default" hit="Use P CONFIG or default connection" />
+    <option name="or" hit="Use P CONFIG or default connection" />
+    <option name="p" hit="Use P CONFIG or default connection" />
+    <option name="use" hit="Use P CONFIG or default connection" />
+    <option name="connection" hit="Use connection parameters " />
+    <option name="parameters" hit="Use connection parameters " />
+    <option name="use" hit="Use connection parameters " />
     <option name="authentication" hit="Use login authentication" />
     <option name="login" hit="Use login authentication" />
     <option name="use" hit="Use login authentication" />
-    <option name="user" hit="User:" />
+    <option name="user" hit="User " />
     <option name="seconds" hit="seconds" />
   </configurable>
 </options>

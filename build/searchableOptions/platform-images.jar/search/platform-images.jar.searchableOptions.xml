@@ -170,7 +170,7 @@
     <option name="box" hit="Box" />
     <option name="comment" hit="Comment Type" />
     <option name="type" hit="Comment Type" />
-    <option name="length" hit="Length:" />
+    <option name="length" hit="Length " />
     <option name="copyright" hit="No copyright" />
     <option name="no" hit="No copyright" />
     <option name="each" hit="Prefix each line" />
@@ -179,11 +179,11 @@
     <option name="location" hit="Relative Location" />
     <option name="relative" hit="Relative Location" />
     <option name="svg" hit="SVG" />
+    <option name="separator" hit="Separator " />
     <option name="after" hit="Separator after" />
     <option name="separator" hit="Separator after" />
     <option name="before" hit="Separator before" />
     <option name="separator" hit="Separator before" />
-    <option name="separator" hit="Separator:" />
     <option name="block" hit="Use block comment" />
     <option name="comment" hit="Use block comment" />
     <option name="use" hit="Use block comment" />

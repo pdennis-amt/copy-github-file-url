@@ -19,9 +19,9 @@
   </configurable>
   <configurable id="preferences.JavaFX" configurable_name="JavaFX">
     <option name="javafx" hit="JavaFX" />
-    <option name="path" hit="Path to SceneBuilder:" />
-    <option name="scenebuilder" hit="Path to SceneBuilder:" />
-    <option name="to" hit="Path to SceneBuilder:" />
+    <option name="path" hit="Path to SceneBuilder " />
+    <option name="scenebuilder" hit="Path to SceneBuilder " />
+    <option name="to" hit="Path to SceneBuilder " />
   </configurable>
   <configurable id="fileTemplates" configurable_name="File and Code Templates">
     <option name="javafxapplication" hit="JavaFXApplication" />

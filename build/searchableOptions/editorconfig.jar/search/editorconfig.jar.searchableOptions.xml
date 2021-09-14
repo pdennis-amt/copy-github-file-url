@@ -43,10 +43,10 @@
   <configurable id="preferences.sourceCode.EditorConfig" configurable_name="EditorConfig">
     <option name="disable" hit="Disable" />
     <option name="editorconfig" hit="EditorConfig" />
-    <option name="loading" hit="Loading..." />
-    <option name="scheme" hit="Scheme:" />
-    <option name="from" hit="Set from..." />
-    <option name="set" hit="Set from..." />
+    <option name="loading" hit="Loading   " />
+    <option name="scheme" hit="Scheme " />
+    <option name="from" hit="Set from   " />
+    <option name="set" hit="Set from   " />
     <option name="spaces" path="Spaces" hit="Spaces" />
     <option name="and" path="Wrapping and Braces" hit="Wrapping and Braces" />
     <option name="braces" path="Wrapping and Braces" hit="Wrapping and Braces" />

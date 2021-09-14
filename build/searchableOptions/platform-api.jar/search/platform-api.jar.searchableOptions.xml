@@ -940,82 +940,82 @@
     <option name="xml" path="ActionManager" hit="XML Generate Actions" />
   </configurable>
   <configurable id="http.proxy" configurable_name="HTTP Proxy">
-    <option name="" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="calls" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="cause" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="defined" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="didn" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="disable" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="go" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="have" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="if" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="intend" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="java" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="jvm" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="net" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="network" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="operating" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="please" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="property" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="proxy" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="set" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="some" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="system" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="t" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="this" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="through" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="to" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="true" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="use" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="usesystemproxies" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="will" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="you" hit=" You have JVM property 'java.net.useSystemProxies' set to 'true'. This will cause some network calls to go through operating system-defined proxy. If you didn't intend to use system-defined proxy, please disable this property. " />
-    <option name="auto" hit="Auto-detect proxy settings" />
-    <option name="detect" hit="Auto-detect proxy settings" />
-    <option name="proxy" hit="Auto-detect proxy settings" />
-    <option name="settings" hit="Auto-detect proxy settings" />
-    <option name="automatic" hit="Automatic proxy configuration URL:" />
-    <option name="configuration" hit="Automatic proxy configuration URL:" />
-    <option name="proxy" hit="Automatic proxy configuration URL:" />
-    <option name="url" hit="Automatic proxy configuration URL:" />
+    <option name="" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="calls" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="cause" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="defined" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="didn" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="disable" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="go" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="have" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="if" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="intend" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="java" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="jvm" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="net" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="network" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="operating" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="please" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="property" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="proxy" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="set" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="some" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="system" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="t" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="this" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="through" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="to" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="true" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="use" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="usesystemproxies" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="will" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="you" hit=" You have JVM property  java net useSystemProxies  set to  true   This will cause some network calls to go through operating system defined proxy  If you didn t intend to use system defined proxy  please disable this property  " />
+    <option name="auto" hit="Auto detect proxy settings" />
+    <option name="detect" hit="Auto detect proxy settings" />
+    <option name="proxy" hit="Auto detect proxy settings" />
+    <option name="settings" hit="Auto detect proxy settings" />
+    <option name="automatic" hit="Automatic proxy configuration URL " />
+    <option name="configuration" hit="Automatic proxy configuration URL " />
+    <option name="proxy" hit="Automatic proxy configuration URL " />
+    <option name="url" hit="Automatic proxy configuration URL " />
     <option name="check" hit="Check connection" />
     <option name="connection" hit="Check connection" />
     <option name="clear" hit="Clear passwords" />
     <option name="passwords" hit="Clear passwords" />
-    <option name="com" hit="Example: *.domain.com, 192.168.*" />
-    <option name="domain" hit="Example: *.domain.com, 192.168.*" />
-    <option name="example" hit="Example: *.domain.com, 192.168.*" />
+    <option name="com" hit="Example    domain com           " />
+    <option name="domain" hit="Example    domain com           " />
+    <option name="example" hit="Example    domain com           " />
     <option name="http" hit="HTTP" />
     <option name="http" hit="HTTP Proxy" />
     <option name="proxy" hit="HTTP Proxy" />
-    <option name="host" hit="Host name:" />
-    <option name="name" hit="Host name:" />
+    <option name="host" hit="Host name " />
+    <option name="name" hit="Host name " />
     <option name="label" hit="Label" />
-    <option name="login" hit="Login:" />
+    <option name="login" hit="Login " />
     <option name="configuration" hit="Manual proxy configuration" />
     <option name="manual" hit="Manual proxy configuration" />
     <option name="proxy" hit="Manual proxy configuration" />
     <option name="no" hit="No proxy" />
     <option name="proxy" hit="No proxy" />
-    <option name="for" hit="No proxy for:" />
-    <option name="no" hit="No proxy for:" />
-    <option name="proxy" hit="No proxy for:" />
-    <option name="password" hit="Password:" />
-    <option name="number" hit="Port number:" />
-    <option name="port" hit="Port number:" />
+    <option name="for" hit="No proxy for " />
+    <option name="no" hit="No proxy for " />
+    <option name="proxy" hit="No proxy for " />
+    <option name="password" hit="Password " />
+    <option name="number" hit="Port number " />
+    <option name="port" hit="Port number " />
     <option name="authentication" hit="Proxy authentication" />
     <option name="proxy" hit="Proxy authentication" />
     <option name="remember" hit="Remember" />
     <option name="socks" hit="SOCKS" />
   </configurable>
   <configurable id="http.certificates" configurable_name="Server Certificates">
-    <option name="accept" hit="Accept non-trusted certificates automatically" />
-    <option name="automatically" hit="Accept non-trusted certificates automatically" />
-    <option name="certificates" hit="Accept non-trusted certificates automatically" />
-    <option name="non" hit="Accept non-trusted certificates automatically" />
-    <option name="trusted" hit="Accept non-trusted certificates automatically" />
-    <option name="accepted" hit="Accepted certificates:" />
-    <option name="certificates" hit="Accepted certificates:" />
+    <option name="accept" hit="Accept non trusted certificates automatically" />
+    <option name="automatically" hit="Accept non trusted certificates automatically" />
+    <option name="certificates" hit="Accept non trusted certificates automatically" />
+    <option name="non" hit="Accept non trusted certificates automatically" />
+    <option name="trusted" hit="Accept non trusted certificates automatically" />
+    <option name="accepted" hit="Accepted certificates " />
+    <option name="certificates" hit="Accepted certificates " />
     <option name="certificate" hit="No certificate selected" />
     <option name="no" hit="No certificate selected" />
     <option name="selected" hit="No certificate selected" />

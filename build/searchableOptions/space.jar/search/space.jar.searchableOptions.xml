@@ -48,37 +48,37 @@
     <option name="update" path="ActionManager" hit="Update Branch" />
   </configurable>
   <configurable id="settings.space" configurable_name="Space">
-    <option name="" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="a" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="all" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="an" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="and" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="collaboration" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="combines" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="communication" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="complete" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="development" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="for" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="in" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="instant" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="management" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="one" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="project" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="software" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="solution" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="team" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="that" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="the" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="toolchain" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="tools" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
-    <option name="with" hit="   An all-in-one collaboration solution that combines a complete toolchain for software development with the tools for instant communication, team and project management   " />
+    <option name="" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="a" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="all" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="an" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="and" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="collaboration" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="combines" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="communication" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="complete" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="development" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="for" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="in" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="instant" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="management" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="one" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="project" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="software" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="solution" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="team" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="that" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="the" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="toolchain" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="tools" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
+    <option name="with" hit="   An all in one collaboration solution that combines a complete toolchain for software development with the tools for instant communication  team and project management   " />
     <option name="" hit="   Watch Space Overview" />
     <option name="overview" hit="   Watch Space Overview" />
     <option name="space" hit="   Watch Space Overview" />
     <option name="watch" hit="   Watch Space Overview" />
-    <option name="clone" hit="Clone repositories with:" />
-    <option name="repositories" hit="Clone repositories with:" />
-    <option name="with" hit="Clone repositories with:" />
+    <option name="clone" hit="Clone repositories with " />
+    <option name="repositories" hit="Clone repositories with " />
+    <option name="with" hit="Clone repositories with " />
     <option name="explore" hit="Explore Space" />
     <option name="space" hit="Explore Space" />
     <option name="https" hit="HTTPS" />
@@ -88,8 +88,8 @@
     <option name="log" hit="Log in to Space" />
     <option name="space" hit="Log in to Space" />
     <option name="to" hit="Log in to Space" />
-    <option name="organization" hit="Organization URL:" />
-    <option name="url" hit="Organization URL:" />
+    <option name="organization" hit="Organization URL " />
+    <option name="url" hit="Organization URL " />
     <option name="ssh" hit="SSH" />
     <option name="space" hit="Space" />
   </configurable>

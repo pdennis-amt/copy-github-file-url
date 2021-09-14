@@ -23,48 +23,48 @@
     <option name="shared" path="ActionManager" hit="Restarts pre-built shared indexes download for current project" />
   </configurable>
   <configurable id="shared-indexes" configurable_name="Shared Indexes">
-    <option name="" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="and" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="become" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="cpu" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="downloaded" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="for" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="fully" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="helps" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="indexes" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="indexing" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="it" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="local" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="ready" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="reduce" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="shared" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="suspend" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="to" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="usage" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
-    <option name="wait" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded. It helps to reduce CPU usage.   " />
+    <option name="" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="and" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="become" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="cpu" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="downloaded" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="for" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="fully" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="helps" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="indexes" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="indexing" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="it" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="local" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="ready" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="reduce" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="shared" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="suspend" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="to" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="usage" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
+    <option name="wait" hit="   Suspend local indexing to wait for shared indexes to become ready and fully downloaded  It helps to reduce CPU usage    " />
     <option name="ask" hit="Ask before download" />
     <option name="before" hit="Ask before download" />
     <option name="download" hit="Ask before download" />
-    <option name="don" hit="Don't download, use local indexes" />
-    <option name="download" hit="Don't download, use local indexes" />
-    <option name="indexes" hit="Don't download, use local indexes" />
-    <option name="local" hit="Don't download, use local indexes" />
-    <option name="t" hit="Don't download, use local indexes" />
-    <option name="use" hit="Don't download, use local indexes" />
+    <option name="don" hit="Don t download  use local indexes" />
+    <option name="download" hit="Don t download  use local indexes" />
+    <option name="indexes" hit="Don t download  use local indexes" />
+    <option name="local" hit="Don t download  use local indexes" />
+    <option name="t" hit="Don t download  use local indexes" />
+    <option name="use" hit="Don t download  use local indexes" />
     <option name="automatically" hit="Download automatically" />
     <option name="download" hit="Download automatically" />
-    <option name="built" hit="Download pre-built shared indexes to reduce indexing time" />
-    <option name="download" hit="Download pre-built shared indexes to reduce indexing time" />
-    <option name="indexes" hit="Download pre-built shared indexes to reduce indexing time" />
-    <option name="indexing" hit="Download pre-built shared indexes to reduce indexing time" />
-    <option name="pre" hit="Download pre-built shared indexes to reduce indexing time" />
-    <option name="reduce" hit="Download pre-built shared indexes to reduce indexing time" />
-    <option name="shared" hit="Download pre-built shared indexes to reduce indexing time" />
-    <option name="time" hit="Download pre-built shared indexes to reduce indexing time" />
-    <option name="to" hit="Download pre-built shared indexes to reduce indexing time" />
-    <option name="jdks" hit="JDKs:" />
-    <option name="libraries" hit="Maven Libraries:" />
-    <option name="maven" hit="Maven Libraries:" />
+    <option name="built" hit="Download pre built shared indexes to reduce indexing time" />
+    <option name="download" hit="Download pre built shared indexes to reduce indexing time" />
+    <option name="indexes" hit="Download pre built shared indexes to reduce indexing time" />
+    <option name="indexing" hit="Download pre built shared indexes to reduce indexing time" />
+    <option name="pre" hit="Download pre built shared indexes to reduce indexing time" />
+    <option name="reduce" hit="Download pre built shared indexes to reduce indexing time" />
+    <option name="shared" hit="Download pre built shared indexes to reduce indexing time" />
+    <option name="time" hit="Download pre built shared indexes to reduce indexing time" />
+    <option name="to" hit="Download pre built shared indexes to reduce indexing time" />
+    <option name="jdks" hit="JDKs " />
+    <option name="libraries" hit="Maven Libraries " />
+    <option name="maven" hit="Maven Libraries " />
     <option name="indexes" hit="Public Shared Indexes" />
     <option name="public" hit="Public Shared Indexes" />
     <option name="shared" hit="Public Shared Indexes" />

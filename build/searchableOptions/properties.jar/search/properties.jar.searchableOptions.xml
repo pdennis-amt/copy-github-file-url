@@ -37,11 +37,11 @@
   </configurable>
   <configurable id="preferences.sourceCode.Properties" configurable_name="Properties">
     <option name="disable" hit="Disable" />
-    <option name="loading" hit="Loading..." />
+    <option name="loading" hit="Loading   " />
     <option name="properties" hit="Properties" />
-    <option name="scheme" hit="Scheme:" />
-    <option name="from" hit="Set from..." />
-    <option name="set" hit="Set from..." />
+    <option name="scheme" hit="Scheme " />
+    <option name="from" hit="Set from   " />
+    <option name="set" hit="Set from   " />
     <option name="align" hit="Align properties in column" />
     <option name="column" hit="Align properties in column" />
     <option name="in" hit="Align properties in column" />

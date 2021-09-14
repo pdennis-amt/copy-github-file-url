@@ -193,26 +193,26 @@
     <option name="download" hit="Download and Install" />
     <option name="install" hit="Download and Install" />
     <option name="pandoc" hit="Pandoc" />
-    <option name="executable" hit="Path to Pandoc executable:" />
-    <option name="pandoc" hit="Path to Pandoc executable:" />
-    <option name="path" hit="Path to Pandoc executable:" />
-    <option name="to" hit="Path to Pandoc executable:" />
-    <option name="docx" hit="Save images from docx file to:" />
-    <option name="file" hit="Save images from docx file to:" />
-    <option name="from" hit="Save images from docx file to:" />
-    <option name="images" hit="Save images from docx file to:" />
-    <option name="save" hit="Save images from docx file to:" />
-    <option name="to" hit="Save images from docx file to:" />
+    <option name="executable" hit="Path to Pandoc executable " />
+    <option name="pandoc" hit="Path to Pandoc executable " />
+    <option name="path" hit="Path to Pandoc executable " />
+    <option name="to" hit="Path to Pandoc executable " />
+    <option name="docx" hit="Save images from docx file to " />
+    <option name="file" hit="Save images from docx file to " />
+    <option name="from" hit="Save images from docx file to " />
+    <option name="images" hit="Save images from docx file to " />
+    <option name="save" hit="Save images from docx file to " />
+    <option name="to" hit="Save images from docx file to " />
     <option name="test" hit="Test" />
   </configurable>
   <configurable id="Settings.Markdown" configurable_name="Markdown">
     <option name="markdown" hit="Markdown" />
-    <option name="are" hit="There are no available preview providers." />
-    <option name="available" hit="There are no available preview providers." />
-    <option name="no" hit="There are no available preview providers." />
-    <option name="preview" hit="There are no available preview providers." />
-    <option name="providers" hit="There are no available preview providers." />
-    <option name="there" hit="There are no available preview providers." />
+    <option name="are" hit="There are no available preview providers " />
+    <option name="available" hit="There are no available preview providers " />
+    <option name="no" hit="There are no available preview providers " />
+    <option name="preview" hit="There are no available preview providers " />
+    <option name="providers" hit="There are no available preview providers " />
+    <option name="there" hit="There are no available preview providers " />
   </configurable>
   <configurable id="preferences.sourceCode.Markdown" configurable_name="Markdown">
     <option name="around" path="Blank Lines" hit="Around block elements" />
@@ -224,10 +224,10 @@
     <option name="paragraphs" path="Blank Lines" hit="Between paragraphs" />
     <option name="blank" path="Blank Lines" hit="Blank Lines" />
     <option name="lines" path="Blank Lines" hit="Blank Lines" />
-    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
-    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent " />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent " />
     <option name="disable" hit="Disable" />
-    <option name="indent" path="Tabs and Indents" hit="Indent:" />
+    <option name="indent" path="Tabs and Indents" hit="Indent " />
     <option name="empty" path="Tabs and Indents" hit="Keep indents on empty lines" />
     <option name="indents" path="Tabs and Indents" hit="Keep indents on empty lines" />
     <option name="keep" path="Tabs and Indents" hit="Keep indents on empty lines" />
@@ -237,19 +237,19 @@
     <option name="keep" path="Blank Lines" hit="Keep maximum blank lines" />
     <option name="lines" path="Blank Lines" hit="Keep maximum blank lines" />
     <option name="maximum" path="Blank Lines" hit="Keep maximum blank lines" />
-    <option name="loading" hit="Loading..." />
+    <option name="loading" hit="Loading   " />
     <option name="markdown" hit="Markdown" />
     <option name="blank" path="Blank Lines" hit="Minimum blank lines" />
     <option name="lines" path="Blank Lines" hit="Minimum blank lines" />
     <option name="minimum" path="Blank Lines" hit="Minimum blank lines" />
-    <option name="scheme" hit="Scheme:" />
-    <option name="from" hit="Set from..." />
-    <option name="set" hit="Set from..." />
+    <option name="scheme" hit="Scheme " />
+    <option name="from" hit="Set from   " />
+    <option name="set" hit="Set from   " />
     <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
     <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
     <option name="spaces" path="Spaces" hit="Spaces" />
-    <option name="size" path="Tabs and Indents" hit="Tab size:" />
-    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="size" path="Tabs and Indents" hit="Tab size " />
+    <option name="tab" path="Tabs and Indents" hit="Tab size " />
     <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
     <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
     <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />

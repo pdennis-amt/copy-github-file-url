@@ -260,12 +260,12 @@
     <option name="ungroup" path="ActionManager" hit="Ungroup Buttons" />
   </configurable>
   <configurable id="project.propGUI" configurable_name="GUI Designer">
-    <option name="allow" hit="Allow changing locale at runtime (requires 2020.1)" />
-    <option name="at" hit="Allow changing locale at runtime (requires 2020.1)" />
-    <option name="changing" hit="Allow changing locale at runtime (requires 2020.1)" />
-    <option name="locale" hit="Allow changing locale at runtime (requires 2020.1)" />
-    <option name="requires" hit="Allow changing locale at runtime (requires 2020.1)" />
-    <option name="runtime" hit="Allow changing locale at runtime (requires 2020.1)" />
+    <option name="allow" hit="Allow changing locale at runtime  requires        " />
+    <option name="at" hit="Allow changing locale at runtime  requires        " />
+    <option name="changing" hit="Allow changing locale at runtime  requires        " />
+    <option name="locale" hit="Allow changing locale at runtime  requires        " />
+    <option name="requires" hit="Allow changing locale at runtime  requires        " />
+    <option name="runtime" hit="Allow changing locale at runtime  requires        " />
     <option name="automatically" hit="Automatically copy form runtime classes to the output directory" />
     <option name="classes" hit="Automatically copy form runtime classes to the output directory" />
     <option name="copy" hit="Automatically copy form runtime classes to the output directory" />
@@ -278,20 +278,20 @@
     <option name="binary" hit="Binary class files" />
     <option name="class" hit="Binary class files" />
     <option name="files" hit="Binary class files" />
-    <option name="accessibility" hit="Default accessibility for UI-bound fields:" />
-    <option name="bound" hit="Default accessibility for UI-bound fields:" />
-    <option name="default" hit="Default accessibility for UI-bound fields:" />
-    <option name="fields" hit="Default accessibility for UI-bound fields:" />
-    <option name="for" hit="Default accessibility for UI-bound fields:" />
-    <option name="ui" hit="Default accessibility for UI-bound fields:" />
-    <option name="default" hit="Default layout manager:" />
-    <option name="layout" hit="Default layout manager:" />
-    <option name="manager" hit="Default layout manager:" />
+    <option name="accessibility" hit="Default accessibility for UI bound fields " />
+    <option name="bound" hit="Default accessibility for UI bound fields " />
+    <option name="default" hit="Default accessibility for UI bound fields " />
+    <option name="fields" hit="Default accessibility for UI bound fields " />
+    <option name="for" hit="Default accessibility for UI bound fields " />
+    <option name="ui" hit="Default accessibility for UI bound fields " />
+    <option name="default" hit="Default layout manager " />
+    <option name="layout" hit="Default layout manager " />
+    <option name="manager" hit="Default layout manager " />
     <option name="designer" hit="GUI Designer" />
     <option name="gui" hit="GUI Designer" />
-    <option name="generate" hit="Generate GUI into:" />
-    <option name="gui" hit="Generate GUI into:" />
-    <option name="into" hit="Generate GUI into:" />
+    <option name="generate" hit="Generate GUI into " />
+    <option name="gui" hit="Generate GUI into " />
+    <option name="into" hit="Generate GUI into " />
     <option name="code" hit="Java source code" />
     <option name="java" hit="Java source code" />
     <option name="source" hit="Java source code" />
@@ -302,8 +302,8 @@
     <option name="resize" hit="Resize column and row headers with mouse" />
     <option name="row" hit="Resize column and row headers with mouse" />
     <option name="with" hit="Resize column and row headers with mouse" />
-    <option name="package" hit="package-private" />
-    <option name="private" hit="package-private" />
+    <option name="package" hit="package private" />
+    <option name="private" hit="package private" />
     <option name="private" hit="private" />
     <option name="protected" hit="protected" />
     <option name="public" hit="public" />

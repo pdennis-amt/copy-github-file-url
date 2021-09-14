@@ -425,54 +425,54 @@
     <option name="synced" hit="   GitHub rules are added to the local rules and synced on every fetch   " />
     <option name="the" hit="   GitHub rules are added to the local rules and synced on every fetch   " />
     <option name="to" hit="   GitHub rules are added to the local rules and synced on every fetch   " />
-    <option name="" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="all" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="and" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="changelists" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="commit" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="delete" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="disable" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="for" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="in" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="interface" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="modal" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="non" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="only" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="project" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="support" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="the" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="this" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="will" hit="   This will disable changelists support and delete all changelists in the project. Only for non-modal commit interface.   " />
-    <option name="add" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="branches" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="cherry" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="commits" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="from" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="picked" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="picking" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="protected" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="pushed" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="suffix" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="the" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="to" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
-    <option name="when" hit="Add the 'cherry-picked from  ' suffix when picking commits pushed to protected branches" />
+    <option name="" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="all" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="and" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="changelists" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="commit" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="delete" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="disable" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="for" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="in" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="interface" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="modal" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="non" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="only" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="project" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="support" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="the" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="this" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="will" hit="   This will disable changelists support and delete all changelists in the project  Only for non modal commit interface    " />
+    <option name="add" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="branches" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="cherry" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="commits" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="from" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="picked" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="picking" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="protected" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="pushed" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="suffix" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="the" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="to" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
+    <option name="when" hit="Add the  cherry picked from    suffix when picking commits pushed to protected branches" />
     <option name="all" hit="All" />
     <option name="always" hit="Always" />
     <option name="auto" hit="Auto" />
-    <option name="auto" hit="Auto-update if push of the current branch was rejected" />
-    <option name="branch" hit="Auto-update if push of the current branch was rejected" />
-    <option name="current" hit="Auto-update if push of the current branch was rejected" />
-    <option name="if" hit="Auto-update if push of the current branch was rejected" />
-    <option name="of" hit="Auto-update if push of the current branch was rejected" />
-    <option name="push" hit="Auto-update if push of the current branch was rejected" />
-    <option name="rejected" hit="Auto-update if push of the current branch was rejected" />
-    <option name="the" hit="Auto-update if push of the current branch was rejected" />
-    <option name="update" hit="Auto-update if push of the current branch was rejected" />
-    <option name="was" hit="Auto-update if push of the current branch was rejected" />
-    <option name="clean" hit="Clean working tree using:" />
-    <option name="tree" hit="Clean working tree using:" />
-    <option name="using" hit="Clean working tree using:" />
-    <option name="working" hit="Clean working tree using:" />
+    <option name="auto" hit="Auto update if push of the current branch was rejected" />
+    <option name="branch" hit="Auto update if push of the current branch was rejected" />
+    <option name="current" hit="Auto update if push of the current branch was rejected" />
+    <option name="if" hit="Auto update if push of the current branch was rejected" />
+    <option name="of" hit="Auto update if push of the current branch was rejected" />
+    <option name="push" hit="Auto update if push of the current branch was rejected" />
+    <option name="rejected" hit="Auto update if push of the current branch was rejected" />
+    <option name="the" hit="Auto update if push of the current branch was rejected" />
+    <option name="update" hit="Auto update if push of the current branch was rejected" />
+    <option name="was" hit="Auto update if push of the current branch was rejected" />
+    <option name="clean" hit="Clean working tree using " />
+    <option name="tree" hit="Clean working tree using " />
+    <option name="using" hit="Clean working tree using " />
+    <option name="working" hit="Clean working tree using " />
     <option name="area" hit="Enable staging area" />
     <option name="enable" hit="Enable staging area" />
     <option name="staging" hit="Enable staging area" />
@@ -482,19 +482,19 @@
     <option name="on" hit="Execute branch operations on all roots" />
     <option name="operations" hit="Execute branch operations on all roots" />
     <option name="roots" hit="Execute branch operations on all roots" />
-    <option name="check" hit="Explicitly check for incoming commits on remotes: " />
-    <option name="commits" hit="Explicitly check for incoming commits on remotes: " />
-    <option name="explicitly" hit="Explicitly check for incoming commits on remotes: " />
-    <option name="for" hit="Explicitly check for incoming commits on remotes: " />
-    <option name="incoming" hit="Explicitly check for incoming commits on remotes: " />
-    <option name="on" hit="Explicitly check for incoming commits on remotes: " />
-    <option name="remotes" hit="Explicitly check for incoming commits on remotes: " />
-    <option name="by" hit="Filter &quot;Update Project&quot; information by paths: " />
-    <option name="filter" hit="Filter &quot;Update Project&quot; information by paths: " />
-    <option name="information" hit="Filter &quot;Update Project&quot; information by paths: " />
-    <option name="paths" hit="Filter &quot;Update Project&quot; information by paths: " />
-    <option name="project" hit="Filter &quot;Update Project&quot; information by paths: " />
-    <option name="update" hit="Filter &quot;Update Project&quot; information by paths: " />
+    <option name="check" hit="Explicitly check for incoming commits on remotes  " />
+    <option name="commits" hit="Explicitly check for incoming commits on remotes  " />
+    <option name="explicitly" hit="Explicitly check for incoming commits on remotes  " />
+    <option name="for" hit="Explicitly check for incoming commits on remotes  " />
+    <option name="incoming" hit="Explicitly check for incoming commits on remotes  " />
+    <option name="on" hit="Explicitly check for incoming commits on remotes  " />
+    <option name="remotes" hit="Explicitly check for incoming commits on remotes  " />
+    <option name="by" hit="Filter  Update Project  information by paths  " />
+    <option name="filter" hit="Filter  Update Project  information by paths  " />
+    <option name="information" hit="Filter  Update Project  information by paths  " />
+    <option name="paths" hit="Filter  Update Project  information by paths  " />
+    <option name="project" hit="Filter  Update Project  information by paths  " />
+    <option name="update" hit="Filter  Update Project  information by paths  " />
     <option name="git" hit="Git" />
     <option name="branch" hit="Load branch protection rules from GitHub" />
     <option name="from" hit="Load branch protection rules from GitHub" />
@@ -504,13 +504,13 @@
     <option name="rules" hit="Load branch protection rules from GitHub" />
     <option name="merge" hit="Merge" />
     <option name="never" hit="Never" />
-    <option name="" hit="Path to Git executable:" />
-    <option name="executable" hit="Path to Git executable:" />
-    <option name="git" hit="Path to Git executable:" />
-    <option name="path" hit="Path to Git executable:" />
-    <option name="to" hit="Path to Git executable:" />
-    <option name="branches" hit="Protected branches:" />
-    <option name="protected" hit="Protected branches:" />
+    <option name="" hit="Path to Git executable " />
+    <option name="executable" hit="Path to Git executable " />
+    <option name="git" hit="Path to Git executable " />
+    <option name="path" hit="Path to Git executable " />
+    <option name="to" hit="Path to Git executable " />
+    <option name="branches" hit="Protected branches " />
+    <option name="protected" hit="Protected branches " />
     <option name="rebase" hit="Rebase" />
     <option name="current" hit="Set this path only for the current project" />
     <option name="for" hit="Set this path only for the current project" />
@@ -537,12 +537,12 @@
     <option name="to" hit="Show Push dialog only when committing to protected branches" />
     <option name="when" hit="Show Push dialog only when committing to protected branches" />
     <option name="stash" hit="Stash" />
-    <option name="for" hit="Supported for Git 2.9+" />
-    <option name="git" hit="Supported for Git 2.9+" />
-    <option name="supported" hit="Supported for Git 2.9+" />
+    <option name="for" hit="Supported for Git     " />
+    <option name="git" hit="Supported for Git     " />
+    <option name="supported" hit="Supported for Git     " />
     <option name="test" hit="Test" />
-    <option name="method" hit="Update method:" />
-    <option name="update" hit="Update method:" />
+    <option name="method" hit="Update method " />
+    <option name="update" hit="Update method " />
     <option name="credential" hit="Use credential helper" />
     <option name="helper" hit="Use credential helper" />
     <option name="use" hit="Use credential helper" />

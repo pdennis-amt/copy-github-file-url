@@ -42,10 +42,5 @@
     <option name="lessons" hit="Reset Lessons Progress" />
     <option name="progress" hit="Reset Lessons Progress" />
     <option name="reset" hit="Reset Lessons Progress" />
-    <option name="lessons" hit="Show notifications of new lessons" />
-    <option name="new" hit="Show notifications of new lessons" />
-    <option name="notifications" hit="Show notifications of new lessons" />
-    <option name="of" hit="Show notifications of new lessons" />
-    <option name="show" hit="Show notifications of new lessons" />
   </configurable>
 </options>

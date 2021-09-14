@@ -32,27 +32,27 @@
     <option name="text" hit="Text" />
   </configurable>
   <configurable id="preferences.sourceCode.YAML" configurable_name="YAML">
-    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
-    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent " />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent " />
     <option name="disable" hit="Disable" />
+    <option name="indent" path="Tabs and Indents" hit="Indent " />
     <option name="indent" path="Tabs and Indents" hit="Indent sequence value" />
     <option name="sequence" path="Tabs and Indents" hit="Indent sequence value" />
     <option name="value" path="Tabs and Indents" hit="Indent sequence value" />
-    <option name="indent" path="Tabs and Indents" hit="Indent:" />
     <option name="empty" path="Tabs and Indents" hit="Keep indents on empty lines" />
     <option name="indents" path="Tabs and Indents" hit="Keep indents on empty lines" />
     <option name="keep" path="Tabs and Indents" hit="Keep indents on empty lines" />
     <option name="lines" path="Tabs and Indents" hit="Keep indents on empty lines" />
     <option name="on" path="Tabs and Indents" hit="Keep indents on empty lines" />
-    <option name="loading" hit="Loading..." />
-    <option name="scheme" hit="Scheme:" />
-    <option name="from" hit="Set from..." />
-    <option name="set" hit="Set from..." />
+    <option name="loading" hit="Loading   " />
+    <option name="scheme" hit="Scheme " />
+    <option name="from" hit="Set from   " />
+    <option name="set" hit="Set from   " />
     <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
     <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
     <option name="spaces" path="Spaces" hit="Spaces" />
-    <option name="size" path="Tabs and Indents" hit="Tab size:" />
-    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="size" path="Tabs and Indents" hit="Tab size " />
+    <option name="tab" path="Tabs and Indents" hit="Tab size " />
     <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
     <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
     <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />

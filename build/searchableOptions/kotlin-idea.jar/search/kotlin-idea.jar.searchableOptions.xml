@@ -473,24 +473,20 @@
     <option name="text" hit="String//String text" />
   </configurable>
   <configurable id="preferences.language.Kotlin" configurable_name="Kotlin">
-    <option name="build" hit="Build number (internal mode):" />
-    <option name="internal" hit="Build number (internal mode):" />
-    <option name="mode" hit="Build number (internal mode):" />
-    <option name="number" hit="Build number (internal mode):" />
+    <option name="build" hit="Build number  internal mode  " />
+    <option name="internal" hit="Build number  internal mode  " />
+    <option name="mode" hit="Build number  internal mode  " />
+    <option name="number" hit="Build number  internal mode  " />
     <option name="again" hit="Check again" />
     <option name="check" hit="Check again" />
-    <option name="current" hit="Current Kotlin plugin version:" />
-    <option name="kotlin" hit="Current Kotlin plugin version:" />
-    <option name="plugin" hit="Current Kotlin plugin version:" />
-    <option name="version" hit="Current Kotlin plugin version:" />
-    <option name="access" hit="Early Access Preview 1.5.x" />
-    <option name="early" hit="Early Access Preview 1.5.x" />
-    <option name="preview" hit="Early Access Preview 1.5.x" />
-    <option name="x" hit="Early Access Preview 1.5.x" />
-    <option name="access" hit="Early Access Preview 1.6.x" />
-    <option name="early" hit="Early Access Preview 1.6.x" />
-    <option name="preview" hit="Early Access Preview 1.6.x" />
-    <option name="x" hit="Early Access Preview 1.6.x" />
+    <option name="current" hit="Current Kotlin plugin version " />
+    <option name="kotlin" hit="Current Kotlin plugin version " />
+    <option name="plugin" hit="Current Kotlin plugin version " />
+    <option name="version" hit="Current Kotlin plugin version " />
+    <option name="access" hit="Early Access Preview     x" />
+    <option name="early" hit="Early Access Preview     x" />
+    <option name="preview" hit="Early Access Preview     x" />
+    <option name="x" hit="Early Access Preview     x" />
     <option name="experimental" hit="Experimental Features" />
     <option name="features" hit="Experimental Features" />
     <option name="install" hit="Install" />
@@ -514,8 +510,8 @@
     <option name="new" hit="New Java to Kotlin Converter" />
     <option name="to" hit="New Java to Kotlin Converter" />
     <option name="stable" hit="Stable" />
-    <option name="channel" hit="Update channel:" />
-    <option name="update" hit="Update channel:" />
+    <option name="channel" hit="Update channel " />
+    <option name="update" hit="Update channel " />
   </configurable>
   <configurable id="preferences.sourceCode.Kotlin" configurable_name="Kotlin">
     <option name="" path="Imports" hit=" names used" />
@@ -527,14 +523,14 @@
     <option name="comment" path="Code Generation" hit="Add a space at comment start" />
     <option name="space" path="Code Generation" hit="Add a space at comment start" />
     <option name="start" path="Code Generation" hit="Add a space at comment start" />
-    <option name="after" path="Blank Lines" hit="After class header:" />
-    <option name="class" path="Blank Lines" hit="After class header:" />
-    <option name="header" path="Blank Lines" hit="After class header:" />
-    <option name="around" path="Blank Lines" hit="Around 'when' branches with {}" />
-    <option name="branches" path="Blank Lines" hit="Around 'when' branches with {}" />
-    <option name="when" path="Blank Lines" hit="Around 'when' branches with {}" />
-    <option name="with" path="Blank Lines" hit="Around 'when' branches with {}" />
-    <option name="before" path="Blank Lines" hit="Before '}':" />
+    <option name="after" path="Blank Lines" hit="After class header " />
+    <option name="class" path="Blank Lines" hit="After class header " />
+    <option name="header" path="Blank Lines" hit="After class header " />
+    <option name="around" path="Blank Lines" hit="Around  when  branches with   " />
+    <option name="branches" path="Blank Lines" hit="Around  when  branches with   " />
+    <option name="when" path="Blank Lines" hit="Around  when  branches with   " />
+    <option name="with" path="Blank Lines" hit="Around  when  branches with   " />
+    <option name="before" path="Blank Lines" hit="Before     " />
     <option name="annotation" path="Blank Lines" hit="Before declaration with comment or annotation" />
     <option name="before" path="Blank Lines" hit="Before declaration with comment or annotation" />
     <option name="comment" path="Blank Lines" hit="Before declaration with comment or annotation" />
@@ -552,8 +548,8 @@
     <option name="generation" path="Code Generation" hit="Code Generation" />
     <option name="code" path="Code Generation" hit="Comment Code" />
     <option name="comment" path="Code Generation" hit="Comment Code" />
-    <option name="continuation" path="Tabs and Indents" hit="Continuation indent:" />
-    <option name="indent" path="Tabs and Indents" hit="Continuation indent:" />
+    <option name="continuation" path="Tabs and Indents" hit="Continuation indent " />
+    <option name="indent" path="Tabs and Indents" hit="Continuation indent " />
     <option name="disable" hit="Disable" />
     <option name="import" path="Imports" hit="Import Layout" />
     <option name="layout" path="Imports" hit="Import Layout" />
@@ -561,11 +557,11 @@
     <option name="import" path="Imports" hit="Import aliases separately" />
     <option name="separately" path="Imports" hit="Import aliases separately" />
     <option name="imports" path="Imports" hit="Imports" />
-    <option name="code" path="Blank Lines" hit="In code:" />
-    <option name="in" path="Blank Lines" hit="In code:" />
-    <option name="declarations" path="Blank Lines" hit="In declarations:" />
-    <option name="in" path="Blank Lines" hit="In declarations:" />
-    <option name="indent" path="Tabs and Indents" hit="Indent:" />
+    <option name="code" path="Blank Lines" hit="In code " />
+    <option name="in" path="Blank Lines" hit="In code " />
+    <option name="declarations" path="Blank Lines" hit="In declarations " />
+    <option name="in" path="Blank Lines" hit="In declarations " />
+    <option name="indent" path="Tabs and Indents" hit="Indent " />
     <option name="classes" path="Imports" hit="Insert imports for nested classes" />
     <option name="for" path="Imports" hit="Insert imports for nested classes" />
     <option name="imports" path="Imports" hit="Insert imports for nested classes" />
@@ -599,46 +595,46 @@
     <option name="comment" path="Code Generation" hit="Line comment at first column" />
     <option name="first" path="Code Generation" hit="Line comment at first column" />
     <option name="line" path="Code Generation" hit="Line comment at first column" />
-    <option name="load" path="Load/Save" hit="Load/Save" />
-    <option name="save" path="Load/Save" hit="Load/Save" />
-    <option name="loading" hit="Loading..." />
+    <option name="load" path="Load/Save" hit="Load Save" />
+    <option name="save" path="Load/Save" hit="Load Save" />
+    <option name="loading" hit="Loading   " />
     <option name="blank" path="Blank Lines" hit="Minimum blank lines" />
     <option name="lines" path="Blank Lines" hit="Minimum blank lines" />
     <option name="minimum" path="Blank Lines" hit="Minimum blank lines" />
     <option name="other" path="Imports" hit="Other" />
-    <option name="import" path="Imports" hit="Packages to Use Import with '*'" />
-    <option name="packages" path="Imports" hit="Packages to Use Import with '*'" />
-    <option name="to" path="Imports" hit="Packages to Use Import with '*'" />
-    <option name="use" path="Imports" hit="Packages to Use Import with '*'" />
-    <option name="with" path="Imports" hit="Packages to Use Import with '*'" />
-    <option name="scheme" hit="Scheme:" />
-    <option name="from" hit="Set from..." />
-    <option name="set" hit="Set from..." />
+    <option name="import" path="Imports" hit="Packages to Use Import with    " />
+    <option name="packages" path="Imports" hit="Packages to Use Import with    " />
+    <option name="to" path="Imports" hit="Packages to Use Import with    " />
+    <option name="use" path="Imports" hit="Packages to Use Import with    " />
+    <option name="with" path="Imports" hit="Packages to Use Import with    " />
+    <option name="scheme" hit="Scheme " />
+    <option name="from" hit="Set from   " />
+    <option name="set" hit="Set from   " />
     <option name="smart" path="Tabs and Indents" hit="Smart tabs" />
     <option name="tabs" path="Tabs and Indents" hit="Smart tabs" />
     <option name="spaces" path="Spaces" hit="Spaces" />
-    <option name="size" path="Tabs and Indents" hit="Tab size:" />
-    <option name="tab" path="Tabs and Indents" hit="Tab size:" />
+    <option name="size" path="Tabs and Indents" hit="Tab size " />
+    <option name="tab" path="Tabs and Indents" hit="Tab size " />
     <option name="and" path="Tabs and Indents" hit="Tabs and Indents" />
     <option name="indents" path="Tabs and Indents" hit="Tabs and Indents" />
     <option name="tabs" path="Tabs and Indents" hit="Tabs and Indents" />
-    <option name="level" path="Imports" hit="Top-Level Symbols" />
-    <option name="symbols" path="Imports" hit="Top-Level Symbols" />
-    <option name="top" path="Imports" hit="Top-Level Symbols" />
+    <option name="level" path="Imports" hit="Top Level Symbols" />
+    <option name="symbols" path="Imports" hit="Top Level Symbols" />
+    <option name="top" path="Imports" hit="Top Level Symbols" />
     <option name="comma" path="Other" hit="Trailing comma" />
     <option name="trailing" path="Other" hit="Trailing comma" />
-    <option name="defaults" path="Load/Save" hit="Use defaults from:" />
-    <option name="from" path="Load/Save" hit="Use defaults from:" />
-    <option name="use" path="Load/Save" hit="Use defaults from:" />
-    <option name="import" path="Imports" hit="Use import with '*'" />
-    <option name="use" path="Imports" hit="Use import with '*'" />
-    <option name="with" path="Imports" hit="Use import with '*'" />
-    <option name="at" path="Imports" hit="Use import with '*' when at least" />
-    <option name="import" path="Imports" hit="Use import with '*' when at least" />
-    <option name="least" path="Imports" hit="Use import with '*' when at least" />
-    <option name="use" path="Imports" hit="Use import with '*' when at least" />
-    <option name="when" path="Imports" hit="Use import with '*' when at least" />
-    <option name="with" path="Imports" hit="Use import with '*' when at least" />
+    <option name="defaults" path="Load/Save" hit="Use defaults from " />
+    <option name="from" path="Load/Save" hit="Use defaults from " />
+    <option name="use" path="Load/Save" hit="Use defaults from " />
+    <option name="import" path="Imports" hit="Use import with    " />
+    <option name="use" path="Imports" hit="Use import with    " />
+    <option name="with" path="Imports" hit="Use import with    " />
+    <option name="at" path="Imports" hit="Use import with     when at least" />
+    <option name="import" path="Imports" hit="Use import with     when at least" />
+    <option name="least" path="Imports" hit="Use import with     when at least" />
+    <option name="use" path="Imports" hit="Use import with     when at least" />
+    <option name="when" path="Imports" hit="Use import with     when at least" />
+    <option name="with" path="Imports" hit="Use import with     when at least" />
     <option name="import" path="Imports" hit="Use single name import" />
     <option name="name" path="Imports" hit="Use single name import" />
     <option name="single" path="Imports" hit="Use single name import" />
@@ -1068,7 +1064,7 @@
     <option name="comment" hit="Comment Type" />
     <option name="type" hit="Comment Type" />
     <option name="kotlin" hit="Kotlin" />
-    <option name="length" hit="Length:" />
+    <option name="length" hit="Length " />
     <option name="copyright" hit="No copyright" />
     <option name="no" hit="No copyright" />
     <option name="each" hit="Prefix each line" />
@@ -1076,11 +1072,11 @@
     <option name="prefix" hit="Prefix each line" />
     <option name="location" hit="Relative Location" />
     <option name="relative" hit="Relative Location" />
+    <option name="separator" hit="Separator " />
     <option name="after" hit="Separator after" />
     <option name="separator" hit="Separator after" />
     <option name="before" hit="Separator before" />
     <option name="separator" hit="Separator before" />
-    <option name="separator" hit="Separator:" />
     <option name="block" hit="Use block comment" />
     <option name="comment" hit="Use block comment" />
     <option name="use" hit="Use block comment" />
@@ -1096,24 +1092,24 @@
     <option name="use" hit="Use line comment" />
   </configurable>
   <configurable id="project.kotlinCompiler" configurable_name="Kotlin Compiler">
-    <option name="" hit="1.3 (DEPRECATED)" />
-    <option name="deprecated" hit="1.3 (DEPRECATED)" />
-    <option name="" hit="1.6 (EXPERIMENTAL)" />
-    <option name="experimental" hit="1.6 (EXPERIMENTAL)" />
+    <option name="" hit="     DEPRECATED " />
+    <option name="deprecated" hit="     DEPRECATED " />
+    <option name="" hit="     EXPERIMENTAL " />
+    <option name="experimental" hit="     EXPERIMENTAL " />
     <option name="amd" hit="AMD" />
     <option name="api" hit="API version" />
     <option name="version" hit="API version" />
-    <option name="add" hit="Add prefix to paths in source map:" />
-    <option name="in" hit="Add prefix to paths in source map:" />
-    <option name="map" hit="Add prefix to paths in source map:" />
-    <option name="paths" hit="Add prefix to paths in source map:" />
-    <option name="prefix" hit="Add prefix to paths in source map:" />
-    <option name="source" hit="Add prefix to paths in source map:" />
-    <option name="to" hit="Add prefix to paths in source map:" />
-    <option name="additional" hit="Additional command line parameters:" />
-    <option name="command" hit="Additional command line parameters:" />
-    <option name="line" hit="Additional command line parameters:" />
-    <option name="parameters" hit="Additional command line parameters:" />
+    <option name="add" hit="Add prefix to paths in source map " />
+    <option name="in" hit="Add prefix to paths in source map " />
+    <option name="map" hit="Add prefix to paths in source map " />
+    <option name="paths" hit="Add prefix to paths in source map " />
+    <option name="prefix" hit="Add prefix to paths in source map " />
+    <option name="source" hit="Add prefix to paths in source map " />
+    <option name="to" hit="Add prefix to paths in source map " />
+    <option name="additional" hit="Additional command line parameters " />
+    <option name="command" hit="Additional command line parameters " />
+    <option name="line" hit="Additional command line parameters " />
+    <option name="parameters" hit="Additional command line parameters " />
     <option name="always" hit="Always" />
     <option name="commonjs" hit="CommonJS" />
     <option name="copy" hit="Copy library runtime files" />
@@ -1122,24 +1118,24 @@
     <option name="runtime" hit="Copy library runtime files" />
     <option name="destination" hit="Destination directory" />
     <option name="directory" hit="Destination directory" />
-    <option name="code" hit="Embed source code into source map:" />
-    <option name="embed" hit="Embed source code into source map:" />
-    <option name="into" hit="Embed source code into source map:" />
-    <option name="map" hit="Embed source code into source map:" />
-    <option name="source" hit="Embed source code into source map:" />
+    <option name="code" hit="Embed source code into source map " />
+    <option name="embed" hit="Embed source code into source map " />
+    <option name="into" hit="Embed source code into source map " />
+    <option name="map" hit="Embed source code into source map " />
+    <option name="source" hit="Embed source code into source map " />
     <option name="compilation" hit="Enable incremental compilation" />
     <option name="enable" hit="Enable incremental compilation" />
     <option name="incremental" hit="Enable incremental compilation" />
-    <option name="append" hit="File to append to generated code:" />
-    <option name="code" hit="File to append to generated code:" />
-    <option name="file" hit="File to append to generated code:" />
-    <option name="generated" hit="File to append to generated code:" />
-    <option name="to" hit="File to append to generated code:" />
-    <option name="code" hit="File to prepend to generated code:" />
-    <option name="file" hit="File to prepend to generated code:" />
-    <option name="generated" hit="File to prepend to generated code:" />
-    <option name="prepend" hit="File to prepend to generated code:" />
-    <option name="to" hit="File to prepend to generated code:" />
+    <option name="append" hit="File to append to generated code " />
+    <option name="code" hit="File to append to generated code " />
+    <option name="file" hit="File to append to generated code " />
+    <option name="generated" hit="File to append to generated code " />
+    <option name="to" hit="File to append to generated code " />
+    <option name="code" hit="File to prepend to generated code " />
+    <option name="file" hit="File to prepend to generated code " />
+    <option name="generated" hit="File to prepend to generated code " />
+    <option name="prepend" hit="File to prepend to generated code " />
+    <option name="to" hit="File to prepend to generated code " />
     <option name="generate" hit="Generate source maps" />
     <option name="maps" hit="Generate source maps" />
     <option name="source" hit="Generate source maps" />
@@ -1161,38 +1157,38 @@
     <option name="to" hit="Kotlin to JavaScript" />
     <option name="language" hit="Language version" />
     <option name="version" hit="Language version" />
-    <option name="latest" hit="Latest stable (1.5)" />
-    <option name="stable" hit="Latest stable (1.5)" />
-    <option name="kind" hit="Module kind:" />
-    <option name="module" hit="Module kind:" />
+    <option name="latest" hit="Latest stable      " />
+    <option name="stable" hit="Latest stable      " />
+    <option name="kind" hit="Module kind " />
+    <option name="module" hit="Module kind " />
     <option name="never" hit="Never" />
-    <option name="global" hit="Plain (put to global scope)" />
-    <option name="plain" hit="Plain (put to global scope)" />
-    <option name="put" hit="Plain (put to global scope)" />
-    <option name="scope" hit="Plain (put to global scope)" />
-    <option name="to" hit="Plain (put to global scope)" />
+    <option name="global" hit="Plain  put to global scope " />
+    <option name="plain" hit="Plain  put to global scope " />
+    <option name="put" hit="Plain  put to global scope " />
+    <option name="scope" hit="Plain  put to global scope " />
+    <option name="to" hit="Plain  put to global scope " />
     <option name="compiler" hit="Report compiler warnings" />
     <option name="report" hit="Report compiler warnings" />
     <option name="warnings" hit="Report compiler warnings" />
-    <option name="classes" hit="Script template classes:" />
-    <option name="script" hit="Script template classes:" />
-    <option name="template" hit="Script template classes:" />
-    <option name="classpath" hit="Script templates classpath:" />
-    <option name="script" hit="Script templates classpath:" />
-    <option name="templates" hit="Script templates classpath:" />
+    <option name="classes" hit="Script template classes " />
+    <option name="script" hit="Script template classes " />
+    <option name="template" hit="Script template classes " />
+    <option name="classpath" hit="Script templates classpath " />
+    <option name="script" hit="Script templates classpath " />
+    <option name="templates" hit="Script templates classpath " />
     <option name="jvm" hit="Target JVM version" />
     <option name="target" hit="Target JVM version" />
     <option name="version" hit="Target JVM version" />
-    <option name="amd" hit="UMD (detect AMD or CommonJS if available, fallback to plain)" />
-    <option name="available" hit="UMD (detect AMD or CommonJS if available, fallback to plain)" />
-    <option name="commonjs" hit="UMD (detect AMD or CommonJS if available, fallback to plain)" />
-    <option name="detect" hit="UMD (detect AMD or CommonJS if available, fallback to plain)" />
-    <option name="fallback" hit="UMD (detect AMD or CommonJS if available, fallback to plain)" />
-    <option name="if" hit="UMD (detect AMD or CommonJS if available, fallback to plain)" />
-    <option name="or" hit="UMD (detect AMD or CommonJS if available, fallback to plain)" />
-    <option name="plain" hit="UMD (detect AMD or CommonJS if available, fallback to plain)" />
-    <option name="to" hit="UMD (detect AMD or CommonJS if available, fallback to plain)" />
-    <option name="umd" hit="UMD (detect AMD or CommonJS if available, fallback to plain)" />
+    <option name="amd" hit="UMD  detect AMD or CommonJS if available  fallback to plain " />
+    <option name="available" hit="UMD  detect AMD or CommonJS if available  fallback to plain " />
+    <option name="commonjs" hit="UMD  detect AMD or CommonJS if available  fallback to plain " />
+    <option name="detect" hit="UMD  detect AMD or CommonJS if available  fallback to plain " />
+    <option name="fallback" hit="UMD  detect AMD or CommonJS if available  fallback to plain " />
+    <option name="if" hit="UMD  detect AMD or CommonJS if available  fallback to plain " />
+    <option name="or" hit="UMD  detect AMD or CommonJS if available  fallback to plain " />
+    <option name="plain" hit="UMD  detect AMD or CommonJS if available  fallback to plain " />
+    <option name="to" hit="UMD  detect AMD or CommonJS if available  fallback to plain " />
+    <option name="umd" hit="UMD  detect AMD or CommonJS if available  fallback to plain " />
     <option name="a" hit="When inlining a function from other module with embedded sources" />
     <option name="embedded" hit="When inlining a function from other module with embedded sources" />
     <option name="from" hit="When inlining a function from other module with embedded sources" />

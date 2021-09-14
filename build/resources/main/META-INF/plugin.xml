@@ -1,16 +1,18 @@
 <idea-plugin>
   <version>1.0-SNAPSHOT</version>
-  <change-notes>Add change notes here.&lt;br&gt;
-      &lt;em&gt;most HTML tags may be used&lt;/em&gt;</change-notes>
-  <idea-version since-build="212.5080" until-build="212.*" />
+  <change-notes>&lt;p&gt;0.1&lt;/p&gt;
+&lt;ul&gt;
+    &lt;li&gt;First edition of the plugin.&lt;/li&gt;
+&lt;/ul&gt;</change-notes>
+  <idea-version since-build="212.4746.92" until-build="212.*" />
   <id>com.amount.copy-github-file-url</id>
-  <name>Copy &amp; Browse as Github or Atlassian Stash Path</name>
+  <name>Copy &amp; Browse as Github Path</name>
   <vendor email="paul.dennis@amount.com">Amount-Dev</vendor>
-  <description><![CDATA[For projects with git repos in the base, it allows you to copy the current file's path on
-      master, and open that with the default browser.<br>
+  <description>For projects with git repos in the base, it allows you to copy the current file's path on
+      master, and open that with the default browser.&lt;br&gt;
 
       Handy when you want to quickly navigate to a file in Intellij and then copy the Github
-      link (including line number) to share with someone else as a URL.<br>]]></description>
+      link (including line number) to share with someone else as a URL.&lt;br&gt;</description>
   <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
          on how to target different products -->
   <depends>com.intellij.modules.platform</depends>
