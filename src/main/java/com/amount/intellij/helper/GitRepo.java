@@ -31,14 +31,16 @@ public abstract class GitRepo {
   abstract String buildUrlFor(String sanitizedUrlValue);
 
   abstract String buildLineDomainPrefix();
+  abstract String buildLineDomainSuffix();
 
   public String repoUrlFor(String relativeFilePath) {
-    return repoUrlFor(relativeFilePath, null);
+    return repoUrlFor(relativeFilePath, null, null);
   }
 
-  public String repoUrlFor(String filePath, Integer line) {
+  public String repoUrlFor(String filePath, Integer lineStart, Integer lineEnd) {
     filePath = filePath.replaceFirst(gitConfigFile.getParentFile().getParent(), "");
-    return gitBaseUrl() + filePath + (line != null ? buildLineDomainPrefix() + line : "");
+    return gitBaseUrl() + filePath + (lineStart != null ? buildLineDomainPrefix() + lineStart : "")
+            + ((lineEnd != null && lineEnd > lineStart) ? buildLineDomainSuffix() + lineEnd : "");
   }
 
   String findDotGitFolder(File absolutePath) {

@@ -4,12 +4,25 @@
       <map>
         <entry key="$USER_HOME$/Development/copy-github-file-url">
           <value>
-            <RecentProjectMetaInfo opened="true" projectWorkspaceId="1y6NlnPJMMrswWP3ZOETCWZz3fc">
+            <RecentProjectMetaInfo frameTitle="copy-github-file-url – description [copy-github-file-url]" projectWorkspaceId="1y6NlnPJMMrswWP3ZOETCWZz3fc">
               <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
               <option name="build" value="IC-212.4746.92" />
               <option name="buildTimestamp" value="1627369681695" />
+              <frame x="-1633" y="-101" width="1400" height="835" />
               <option name="productionCode" value="IC" />
               <option name="projectOpenTimestamp" value="1631584482747" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Development/Multitenant-Demo">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Multitenant-Demo – handler.rb" projectWorkspaceId="1u2I5ldv0DOXOqayfxwMYExLfmt">
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IC-212.4746.92" />
+              <option name="buildTimestamp" value="1627369684744" />
+              <frame x="-1635" y="-101" width="1400" height="835" />
+              <option name="productionCode" value="IC" />
+              <option name="projectOpenTimestamp" value="1631585084054" />
             </RecentProjectMetaInfo>
           </value>
         </entry>

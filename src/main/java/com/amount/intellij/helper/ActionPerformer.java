@@ -39,18 +39,21 @@ public class ActionPerformer {
   public void actionPerformed(AnActionEvent event) {
     final Editor editor = event.getData(PlatformDataKeys.EDITOR);
     final VirtualFile file = event.getData(PlatformDataKeys.VIRTUAL_FILE);
-    Integer line = (editor != null)
+    Integer lineStart = (editor != null)
         // convert the VisualPosition to the LogicalPosition to have the correct line number.
         // http://grepcode.com/file/repository.grepcode.com/java/ext/com.jetbrains/intellij-idea/10.0/com/intellij/openapi/editor/LogicalPosition.java#LogicalPosition
         ? editor.visualToLogicalPosition(
             Objects.requireNonNull(editor.getSelectionModel().getSelectionStartPosition())).line + 1 : null;
-    String url = copyUrl(file, line);
+    Integer lineEnd = (editor != null)
+            ? editor.visualToLogicalPosition(
+            Objects.requireNonNull(editor.getSelectionModel().getSelectionEndPosition())).line : null;
+    String url = copyUrl(file, lineStart, lineEnd);
     openBrowser(url);
     showStatusBubble(event, file);
   }
 
-  private String copyUrl(VirtualFile file, Integer line) {
-    String url = repo.repoUrlFor(file.getCanonicalPath(), line);
+  private String copyUrl(VirtualFile file, Integer lineStart, Integer lineEnd) {
+    String url = repo.repoUrlFor(file.getCanonicalPath(), lineStart, lineEnd);
     CopyPasteManager.getInstance().setContents(new StringSelection(url));
     return url;
   }

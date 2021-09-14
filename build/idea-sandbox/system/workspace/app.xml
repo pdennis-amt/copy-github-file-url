@@ -1,4 +1,9 @@
 <application>
+  <component name="ExtensionsRootType">
+    <pluginVersions>
+      <plugin id="com.intellij.java" version="IC-212.4746.92" />
+    </pluginVersions>
+  </component>
   <component name="PluginAdvertiserExtensions">
     <plugins>
       <entry key="*.fxml">

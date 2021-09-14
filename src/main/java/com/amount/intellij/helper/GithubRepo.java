@@ -27,4 +27,9 @@ public class GithubRepo extends GitRepo {
   protected String buildLineDomainPrefix() {
     return "#L";
   }
+
+  @Override
+  protected String buildLineDomainSuffix() {
+    return "-L";
+  }
 }
