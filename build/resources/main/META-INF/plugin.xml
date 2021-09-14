@@ -18,11 +18,15 @@
           &lt;ul&gt;
             &lt;li&gt;To copy the Github file URL only, right-click on the open file's tab or the file in the Project view&lt;/li&gt; 
             &lt;li&gt;To copy the Github file URL with a single line selected in Github, right-click on the line&lt;/li&gt; 
-            &lt;li&gt;To copy the Github file URL with a line range selected in Github, select the range and right-click on the range&lt;/li&gt; 
+            &lt;li&gt;To copy the Github file URL with a line range selected in Github, select the entire range (caret will
+            be at the start of the next line) and right-click on the range &lt;/li&gt; 
           &lt;/ul&gt;
         &lt;/li&gt;
         &lt;li&gt;
             Choose the option to Copy URL and open Github on either Master or Current Branch
+        &lt;/li&gt;
+        &lt;li&gt;
+            The URL will be copied to your clipboard and automatically open in your default browser
         &lt;/li&gt;
       &lt;/ol&gt;</description>
   <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
