@@ -1,6 +1,6 @@
 <idea-plugin>
-  <version>1.0-SNAPSHOT</version>
-  <change-notes>&lt;p&gt;0.1&lt;/p&gt;
+  <version>1.0</version>
+  <change-notes>&lt;p&gt;1.0&lt;/p&gt;
 &lt;ul&gt;
     &lt;li&gt;First edition of the plugin.&lt;/li&gt;
 &lt;/ul&gt;</change-notes>
@@ -9,10 +9,16 @@
   <name>Copy &amp; Browse as Github Path</name>
   <vendor email="paul.dennis@amount.com">Amount-Dev</vendor>
   <description>For projects with git repos in the base, it allows you to copy the current file's path on
-      master, and open that with the default browser.&lt;br&gt;
-
+      master, and open that with the default browser.&lt;br/&gt;&lt;br/&gt;
       Handy when you want to quickly navigate to a file in Intellij and then copy the Github
-      link (including line number) to share with someone else as a URL.&lt;br&gt;</description>
+      link (including line number or line range) to share with someone else as a URL.&lt;br/&gt;&lt;br/&gt;
+      Usage:&lt;br/&gt;
+      &lt;ul&gt;
+        &lt;li&gt;To copy the Github file URL only, right-click on the open file's tab or the file in the Project view&lt;/li&gt; 
+        &lt;li&gt;To copy the Github file URL with a single line selected in Github, right-click on the line&lt;/li&gt; 
+        &lt;li&gt;To copy the Github file URL with a line range selected in Github, select the range and right-click on the range&lt;/li&gt; 
+      &lt;/ul&gt;
+      Choose the option to Copy URL and open Github</description>
   <!-- please see https://plugins.jetbrains.com/docs/intellij/plugin-compatibility.html
          on how to target different products -->
   <depends>com.intellij.modules.platform</depends>
@@ -20,7 +26,7 @@
     <!-- Add your extensions here -->
   </extensions>
   <actions>
-    <action id="com.amount.intellij.GithubCopyAndOpenUrlForFile" class="com.amount.intellij.GithubCopyAndOpenUrlForFile" text="Copy url and open Github (master)" description="Copy and open the URL to this file in Github, assuming the master branch">
+    <action id="com.amount.intellij.GithubCopyAndOpenUrlForFile" class="com.amount.intellij.GithubCopyAndOpenUrlForFile" text="Copy URL and Open Github (Master)" description="Copy and open the URL to this file in Github, assuming the master branch">
       <add-to-group group-id="EditorPopupMenu" />
       <add-to-group group-id="ProjectViewPopupMenu" />
       <add-to-group group-id="EditorTabPopupMenu" />

@@ -4,7 +4,7 @@ plugins {
 }
 
 group 'com.amount'
-version '1.0-SNAPSHOT'
+version '1.0'
 
 repositories {
     mavenCentral()
@@ -24,13 +24,21 @@ patchPluginXml {
     sinceBuild = intellij.version
     untilBuild = null
     version = project.version
-    pluginDescription = """For projects with git repos in the base, it allows you to copy the current file's path on
-      master, and open that with the default browser.<br>
-
+    pluginDescription = """
+      For projects with git repos in the base, it allows you to copy the current file's path on
+      master, and open that with the default browser.<br/><br/>
       Handy when you want to quickly navigate to a file in Intellij and then copy the Github
-      link (including line number) to share with someone else as a URL.<br>"""
+      link (including line number or line range) to share with someone else as a URL.<br/><br/>
+      Usage:<br/>
+      <ul>
+        <li>To copy the Github file URL only, right-click on the open file's tab or the file in the Project view</li> 
+        <li>To copy the Github file URL with a single line selected in Github, right-click on the line</li> 
+        <li>To copy the Github file URL with a line range selected in Github, select the range and right-click on the range</li> 
+      </ul>
+      Choose the option to Copy URL and open Github
+      """
     changeNotes = """
-<p>0.1</p>
+<p>1.0</p>
 <ul>
     <li>First edition of the plugin.</li>
 </ul>"""

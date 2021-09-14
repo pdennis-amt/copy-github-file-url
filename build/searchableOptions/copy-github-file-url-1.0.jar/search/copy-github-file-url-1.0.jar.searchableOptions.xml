@@ -1,0 +1,23 @@
+<options>
+  <configurable id="preferences.keymap" configurable_name="Keymap">
+    <option name="and" path="ActionManager" hit="Copy URL and Open Github (Master)" />
+    <option name="copy" path="ActionManager" hit="Copy URL and Open Github (Master)" />
+    <option name="github" path="ActionManager" hit="Copy URL and Open Github (Master)" />
+    <option name="master" path="ActionManager" hit="Copy URL and Open Github (Master)" />
+    <option name="open" path="ActionManager" hit="Copy URL and Open Github (Master)" />
+    <option name="url" path="ActionManager" hit="Copy URL and Open Github (Master)" />
+    <option name="and" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="assuming" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="branch" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="copy" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="file" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="github" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="in" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="master" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="open" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="the" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="this" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="to" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+    <option name="url" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
+  </configurable>
+</options>
