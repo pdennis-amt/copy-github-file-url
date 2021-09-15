@@ -25,3 +25,6 @@ There are 2 options to choose from:
 
 Both options above result in the URL being copied to the clipboard and opened in a new
 tab of your default browser.  The only difference is the branch in the URL (Master or the currently checked-out branch)
+
+## Extra Notes
+ - I have a Keyboard Shortcut set for **Copy URL and Open Github (Master)** since I use that a lot so I can highlight the line or lines I want and just use the shortcut.  
