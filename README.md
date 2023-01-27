@@ -19,12 +19,14 @@ hopefully this will save you time when doing so.
 - To copy the URL of the file with a single line highlighted in Github, right-click on the line in the editor 
 - To copy the URL of the file with a range of lines highlighted in Github, select the entire range (the caret should be at the beginning of the line below the end of the range) and right-click on the range
 
-There are 2 options to choose from:
+There are 4 options to choose from:
+ - Copy URL and Open Github (Develop)
+ - Copy URL and Open Github (Main)
  - Copy URL and Open Github (Master)
  - Copy URL and Open Github (Current Branch)
 
-Both options above result in the URL being copied to the clipboard and opened in a new
-tab of your default browser.  The only difference is the branch in the URL (Master or the currently checked-out branch)
+All options above result in the URL being copied to the clipboard and opened in a new
+tab of your default browser.  The only difference is the branch in the URL. Current Branch opens the currently checked-out branch.
 
 ## Extra Notes
- - I have a Keyboard Shortcut set for **Copy URL and Open Github (Master)** since I use that a lot so I can highlight the line or lines I want and just use the shortcut.  
+ - Feel free to set a Keyboard Shortcut for any (or all) of these!  
