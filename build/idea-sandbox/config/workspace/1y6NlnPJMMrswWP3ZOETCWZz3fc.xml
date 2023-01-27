@@ -1,25 +1,126 @@
 <project version="4">
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="198">
-              <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenBranchUrlForFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="88">
+              <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenMasterUrlForFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenMainUrlForFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenDevelopUrlForFile.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="176">
+              <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/helper/GitRepo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="203">
+              <caret line="73" selection-start-line="73" selection-end-line="73" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/helper/GithubRepo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="163">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <element signature="e#186#187#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/helper/ActionPerformer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="391">
+              <caret line="49" column="22" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="135">
+              <caret line="22" column="75" lean-forward="true" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/description">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="22">
-              <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>buildUrlFor</find>
+      <find>Copy URL</find>
+      <find>master</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>Develop</replace>
+      <replace>Main</replace>
+      <replace>develop</replace>
+      <replace>main</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/main/java/com/amount/intellij/helper</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/main/java/com/amount/intellij/helper/GitRepo.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/amount/intellij/helper/GithubRepo.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenMasterUrlForFile.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenMainUrlForFile.java" />
+      <option value="$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenDevelopUrlForFile.java" />
+      <option value="$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml" />
+    </changedPaths>
   </component>
   <component name="IgnoredFileRootStore">
     <option name="generatedRoots">
@@ -38,6 +139,67 @@
               <item name="copy-github-file-url" type="b2602c69:ProjectViewProjectNode" />
               <item name="copy-github-file-url" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
             </path>
+            <path>
+              <item name="copy-github-file-url" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-github-file-url" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="build" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copy-github-file-url" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-github-file-url" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copy-github-file-url" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-github-file-url" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="copy-github-file-url" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-github-file-url" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copy-github-file-url" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-github-file-url" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copy-github-file-url" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-github-file-url" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="intellij" type="462c0819:PsiDirectoryNode" />
+              <item name="helper" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copy-github-file-url" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-github-file-url" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copy-github-file-url" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-github-file-url" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="META-INF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="copy-github-file-url" type="b2602c69:ProjectViewProjectNode" />
+              <item name="copy-github-file-url" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -49,7 +211,7 @@
   <component name="ToolWindowManager">
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25035715" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.19570072" />
       <window_info id="Structure" order="1" side_tool="true" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="Commit" order="3" />
@@ -58,44 +220,190 @@
       <window_info id="Space Code Reviews" order="6" />
       <window_info anchor="bottom" id="Version Control" order="0" />
       <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="TODO" order="3" />
-      <window_info anchor="bottom" id="Problems View" order="3" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
-      <window_info anchor="bottom" id="Terminal" order="4" />
-      <window_info anchor="bottom" id="Services" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Build" order="7" />
-      <window_info anchor="bottom" id="Dependencies" order="7" />
-      <window_info anchor="right" id="Gradle" order="4" />
-      <window_info anchor="right" id="Space Automation" order="6" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.33004293" />
+      <window_info anchor="bottom" id="TODO" order="4" />
+      <window_info anchor="bottom" id="Problems View" order="5" />
+      <window_info anchor="bottom" id="Debug" order="6" weight="0.28712445" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Build" order="10" />
+      <window_info anchor="bottom" id="Dependencies" order="11" />
+      <window_info anchor="right" id="Gradle" order="0" />
+      <window_info anchor="right" id="Space Automation" order="1" />
+      <window_info anchor="right" id="Layout Validation" order="7" />
     </layout>
     <recentWindows>
+      <value>Run</value>
       <value>Project</value>
+      <value>Debug</value>
     </recentWindows>
   </component>
   <component name="Trusted.Project.Settings" hasCheckedIfOldProject="true" trusted="YES" />
   <component name="WindowStateProjectService">
-    <state x="-1345" y="62" key="IDE.errors.dialog" timestamp="1631584724824">
-      <screen x="-1920" y="-155" width="1920" height="993" />
+    <state x="3061" y="231" key="#Project_Structure" timestamp="1674851158590">
+      <screen x="0" y="25" width="5120" height="1330" />
     </state>
-    <state x="-1345" y="62" key="IDE.errors.dialog/-3840.-155.1920.1055/0.25.1440.875/-1920.-155.1920.993@-1920.-155.1920.993" timestamp="1631584724824" />
+    <state x="3061" y="231" key="#Project_Structure/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674851158590" />
+    <state x="3861" y="624" width="556" height="258" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1674852618727">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state x="3861" y="624" width="556" height="258" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674852618727" />
+    <state width="600" height="135" key="DebuggerActiveHint" timestamp="1674854101605">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state width="600" height="135" key="DebuggerActiveHint/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674854101605" />
+    <state width="1749" height="356" key="GridCell.Tab.0.bottom" timestamp="1674854524036">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state width="1749" height="356" key="GridCell.Tab.0.bottom/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674854524036" />
+    <state width="1749" height="356" key="GridCell.Tab.0.center" timestamp="1674854524035">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state width="1749" height="356" key="GridCell.Tab.0.center/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674854524035" />
+    <state width="1749" height="356" key="GridCell.Tab.0.left" timestamp="1674854524035">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state width="1749" height="356" key="GridCell.Tab.0.left/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674854524035" />
+    <state width="1749" height="356" key="GridCell.Tab.0.right" timestamp="1674854524036">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state width="1749" height="356" key="GridCell.Tab.0.right/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674854524036" />
+    <state width="1749" height="306" key="GridCell.Tab.1.bottom" timestamp="1674854135837">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state width="1749" height="306" key="GridCell.Tab.1.bottom/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674854135837" />
+    <state width="1749" height="306" key="GridCell.Tab.1.center" timestamp="1674854135836">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state width="1749" height="306" key="GridCell.Tab.1.center/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674854135836" />
+    <state width="1749" height="306" key="GridCell.Tab.1.left" timestamp="1674854135836">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state width="1749" height="306" key="GridCell.Tab.1.left/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674854135836" />
+    <state width="1749" height="306" key="GridCell.Tab.1.right" timestamp="1674854135836">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state width="1749" height="306" key="GridCell.Tab.1.right/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674854135836" />
+    <state x="3859" y="306" width="600" height="735" key="find.popup" timestamp="1674854180519">
+      <screen x="0" y="25" width="5120" height="1330" />
+    </state>
+    <state x="3859" y="306" width="600" height="735" key="find.popup/5120.540.1440.900/0.25.5120.1330@0.25.5120.1330" timestamp="1674854180519" />
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>branchName</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>matcher.group(1)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/config">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
-          <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/description">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="22">
-          <caret line="1" lean-forward="true" selection-start-line="1" selection-end-line="1" />
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenBranchUrlForFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="42" selection-start-line="9" selection-start-column="42" selection-end-line="9" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenMainUrlForFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="74" selection-start-line="13" selection-start-column="74" selection-end-line="13" selection-end-column="74" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenDevelopUrlForFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" column="77" selection-start-line="13" selection-start-column="77" selection-end-line="13" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/helper/GithubRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#186#187#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/GithubCopyAndOpenMasterUrlForFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/helper/GitRepo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="73" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amount/intellij/helper/ActionPerformer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="391">
+          <caret line="49" column="22" lean-forward="true" selection-start-line="49" selection-start-column="22" selection-end-line="49" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/META-INF/plugin.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="22" column="75" lean-forward="true" selection-start-line="22" selection-start-column="75" selection-end-line="22" selection-end-column="75" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI" />
+      <state key="GlobalLibrariesConfigurable.UI" />
+      <state key="JdkListConfigurable.UI" />
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>test|copy-github-file-url</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI" />
+    </states>
   </component>
 </project>

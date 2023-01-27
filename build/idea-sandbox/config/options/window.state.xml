@@ -1,6 +1,18 @@
 <application>
+  <component name="DimensionService">
+    <location key="find.popup.0.0.5120.1440" x="3859" y="306" />
+    <size key="GridCell.Tab.0.right.0.0.5120.1440" width="1749" height="356" />
+    <size key="GridCell.Tab.0.left.0.0.5120.1440" width="1749" height="356" />
+    <size key="GridCell.Tab.0.center.0.0.5120.1440" width="1749" height="356" />
+    <size key="GridCell.Tab.0.bottom.0.0.5120.1440" width="1749" height="356" />
+    <size key="GridCell.Tab.1.left.0.0.5120.1440" width="1749" height="306" />
+    <size key="GridCell.Tab.1.center.0.0.5120.1440" width="1749" height="306" />
+    <size key="GridCell.Tab.1.right.0.0.5120.1440" width="1749" height="306" />
+    <size key="GridCell.Tab.1.bottom.0.0.5120.1440" width="1749" height="306" />
+    <size key="find.popup.0.0.5120.1440" width="600" height="735" />
+  </component>
   <component name="WindowManager">
-    <frame x="-1635" y="-101" width="1400" height="835" />
+    <frame x="3190" y="171" width="1791" height="1165" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -11,14 +23,9 @@
     </layout>
   </component>
   <component name="WindowStateApplicationService">
-    <state x="-610" y="472" width="300" height="236" key="ProcessPopupWindow" timestamp="1631584749492">
-      <screen x="-1920" y="-155" width="1920" height="993" />
+    <state x="2560" y="568" width="800" height="600" key="WELCOME_SCREEN" timestamp="1674851738429">
+      <screen x="0" y="25" width="5120" height="1330" />
     </state>
-    <state x="-610" y="472" width="300" height="236" key="ProcessPopupWindow/-3840.-155.1920.1055/0.25.1440.875/-1920.-155.1920.993" timestamp="1631584749492" />
-    <state x="-960" y="282" width="800" height="636" key="WELCOME_SCREEN" timestamp="1631585056565">
-      <screen x="-1920" y="-155" width="1920" height="993" />
-    </state>
-    <state x="720" y="400" width="800" height="600" key="WELCOME_SCREEN/-3840.-155.1920.1055/0.25.1440.826/-1920.-155.1920.1055" timestamp="1631570205182" />
-    <state x="-960" y="282" width="800" height="636" key="WELCOME_SCREEN/-3840.-155.1920.1055/0.25.1440.875/-1920.-155.1920.993" timestamp="1631585056565" />
+    <state x="2560" y="568" width="800" height="600" key="WELCOME_SCREEN/5120.540.1440.900/0.25.5120.1330" timestamp="1674851738429" />
   </component>
 </application>

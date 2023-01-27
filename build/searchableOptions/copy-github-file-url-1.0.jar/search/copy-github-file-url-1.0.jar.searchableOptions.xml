@@ -7,12 +7,50 @@
     <option name="github" path="ActionManager" hit="Copy URL and Open Github (Current Branch)" />
     <option name="open" path="ActionManager" hit="Copy URL and Open Github (Current Branch)" />
     <option name="url" path="ActionManager" hit="Copy URL and Open Github (Current Branch)" />
+    <option name="and" path="ActionManager" hit="Copy URL and Open Github (Develop)" />
+    <option name="copy" path="ActionManager" hit="Copy URL and Open Github (Develop)" />
+    <option name="develop" path="ActionManager" hit="Copy URL and Open Github (Develop)" />
+    <option name="github" path="ActionManager" hit="Copy URL and Open Github (Develop)" />
+    <option name="open" path="ActionManager" hit="Copy URL and Open Github (Develop)" />
+    <option name="url" path="ActionManager" hit="Copy URL and Open Github (Develop)" />
+    <option name="and" path="ActionManager" hit="Copy URL and Open Github (Main)" />
+    <option name="copy" path="ActionManager" hit="Copy URL and Open Github (Main)" />
+    <option name="github" path="ActionManager" hit="Copy URL and Open Github (Main)" />
+    <option name="main" path="ActionManager" hit="Copy URL and Open Github (Main)" />
+    <option name="open" path="ActionManager" hit="Copy URL and Open Github (Main)" />
+    <option name="url" path="ActionManager" hit="Copy URL and Open Github (Main)" />
     <option name="and" path="ActionManager" hit="Copy URL and Open Github (Master)" />
     <option name="copy" path="ActionManager" hit="Copy URL and Open Github (Master)" />
     <option name="github" path="ActionManager" hit="Copy URL and Open Github (Master)" />
     <option name="master" path="ActionManager" hit="Copy URL and Open Github (Master)" />
     <option name="open" path="ActionManager" hit="Copy URL and Open Github (Master)" />
     <option name="url" path="ActionManager" hit="Copy URL and Open Github (Master)" />
+    <option name="and" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="assuming" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="branch" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="copy" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="develop" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="file" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="github" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="in" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="open" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="the" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="this" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="to" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="url" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the develop branch" />
+    <option name="and" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="assuming" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="branch" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="copy" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="file" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="github" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="in" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="main" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="open" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="the" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="this" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="to" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
+    <option name="url" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the main branch" />
     <option name="and" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
     <option name="assuming" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />
     <option name="branch" path="ActionManager" hit="Copy and open the URL to this file in Github, assuming the master branch" />

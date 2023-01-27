@@ -18,23 +18,25 @@ public abstract class GitRepo {
   private final File gitConfigFile;
   private final String gitHeadFilePath;
   private final Boolean useCurrentBranch;
+  private final String branchName;
 
-  public GitRepo(String projectRoot, Boolean useCurrentBranch) {
-    this(projectRoot, ".git/config", useCurrentBranch);
+  public GitRepo(String projectRoot, Boolean useCurrentBranch, String branchName) {
+    this(projectRoot, ".git/config", useCurrentBranch, branchName);
   }
 
   @VisibleForTesting
-  public GitRepo(String projectRoot, String gitconfig, Boolean useCurrentBranch) {
+  public GitRepo(String projectRoot, String gitconfig, Boolean useCurrentBranch, String branchName) {
     String gitRoot = findDotGitFolder(new File(projectRoot));
     gitConfigFile = new File(gitRoot, gitconfig);
     this.useCurrentBranch = useCurrentBranch;
+    this.branchName = branchName;
     gitHeadFilePath = useCurrentBranch ? String.valueOf(Paths.get(gitRoot, ".git/HEAD")) : "";
   }
 
   public abstract String brand();
 
   /* Implement for different repository systems. */
-  abstract String buildUrlFor(String sanitizedUrlValue, Boolean useCurrentBranch, String gitHeadFilePath);
+  abstract String buildUrlFor(String sanitizedUrlValue, Boolean useCurrentBranch, String gitHeadFilePath, String branchName);
 
   abstract String buildLineDomainPrefix();
 
@@ -110,7 +112,7 @@ public abstract class GitRepo {
         if (inRemoteOriginSection && matcher.matches()) {
           return buildUrlFor(matcher.group(1)
               .replaceAll("ssh://|git://|git@|https://", "")
-              .replaceAll(":", "/"), useCurrentBranch, gitHeadFilePath);
+              .replaceAll(":", "/"), useCurrentBranch, gitHeadFilePath, branchName);
         }
       }
       throw new RuntimeException("Did not find [remote \"origin\"] url set in " + gitConfigFile);

@@ -16,11 +16,17 @@
     </trackers>
   </component>
   <component name="PropertiesComponent">
-    <property name="NextRunPlatformUpdateBuild" value="IC-212.5080.55/2021.2.1" />
-    <property name="NextRunPlatformUpdateVersion" value="2021.2.1" />
+    <property name="FindSplitterProportion" value="0.3297568" />
+    <property name="NextRunPlatformUpdateBuild" value="IC-212.5712.43/2021.2.4" />
+    <property name="NextRunPlatformUpdateVersion" value="2021.2.4" />
+    <property name="build.toolwindow.Build Output.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
     <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Sources" />
+    <property name="debugger.smart.chooser.counter" value="1" />
+    <property name="defaultJdkConfigured" value="true" />
     <property name="eclipse.projects.detected" value="" />
-    <property name="file.gist.reindex.count" value="8" />
+    <property name="file.gist.reindex.count" value="10" />
     <property name="fileTypeChangedCounter" value="1" />
     <property name="fileTypeDetectors" value="com.android.tools.idea.fileTypes.profiler.MemoryCaptureFileType$Detector:com.android.tools.idea.sqlite.fileType.SqliteFileTypeDetector:com.intellij.ide.scratch.ScratchFileServiceImpl$Detector:org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector" />
     <property name="got.it.tooltip.cwm.invitation.notification" value="1" />
@@ -32,7 +38,7 @@
     <property name="log.trace.categories" value="#com.jetbrains.rdserver.requests&#10;#com.jetbrains.rd.ide.document&#10;#com.jetbrains.rdserver.document&#10;#com.jetbrains.rdserver.editors&#10;#com.jetbrains.rdserver.actions&#10;#com.jetbrains.rdserver.permissions" />
     <property name="packagesearch.endpoint.url.fulltext" value="https://package-search.services.jetbrains.com/api/search/idea/fulltext" />
     <property name="packagesearch.endpoint.url.suggest" value="https://package-search.services.jetbrains.com/api/search/idea/suggest" />
-    <property name="packagesearch.status.updated.ts" value="1631584481692" />
+    <property name="packagesearch.status.updated.ts" value="1674851049151" />
     <property name="registry.to.advanced.settings.migration.build" value="IC-212.4746.92" />
     <property name="tasks.pass.word.conversion.enforced" value="true" />
   </component>

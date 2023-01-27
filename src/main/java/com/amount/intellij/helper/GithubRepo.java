@@ -5,11 +5,15 @@ package com.amount.intellij.helper;
  */
 public class GithubRepo extends GitRepo {
   public GithubRepo(String projectRoot, Boolean useCurrentBranch) {
-    super(projectRoot, useCurrentBranch);
+    super(projectRoot, useCurrentBranch, "");
   }
 
-  public GithubRepo(String projectRoot, String gitconfig, Boolean useCurrentBranch) {
-    super(projectRoot, gitconfig, useCurrentBranch);
+  public GithubRepo(String projectRoot, Boolean useCurrentBranch, String branchName) {
+    super(projectRoot, useCurrentBranch, branchName);
+  }
+
+  public GithubRepo(String projectRoot, String gitconfig, Boolean useCurrentBranch, String branchName) {
+    super(projectRoot, gitconfig, useCurrentBranch, branchName);
   }
 
   @Override
@@ -18,10 +22,10 @@ public class GithubRepo extends GitRepo {
   }
 
   @Override
-  protected String buildUrlFor(String sanitizedUrlValue, Boolean useCurrentBranch, String gitHeadFilePath) {
+  protected String buildUrlFor(String sanitizedUrlValue, Boolean useCurrentBranch, String gitHeadFilePath, String branchName) {
     String branch = "";
     if (useCurrentBranch) { branch = currentGitBranch(); }
-    else { branch = "master"; }
+    else { branch = branchName; }
     return "https://" + sanitizedUrlValue + "/blob/" + branch;
   }
 

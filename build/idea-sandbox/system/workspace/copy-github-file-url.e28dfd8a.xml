@@ -16,7 +16,7 @@
                   <option name="dirty" value="false" />
                   <option name="settingsFiles">
                     <map>
-                      <entry key="$PROJECT_DIR$/build.gradle" value="677898642" />
+                      <entry key="$PROJECT_DIR$/build.gradle" value="382924559" />
                       <entry key="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" value="1847016884" />
                       <entry key="$PROJECT_DIR$/settings.gradle" value="1897930028" />
                     </map>
@@ -193,5 +193,8 @@
     <terminalAccess>Readonly</terminalAccess>
     <runAccess>Readonly</runAccess>
     <toolWindowAccess>Disabled</toolWindowAccess>
+  </component>
+  <component name="VcsLogIndexCollector">
+    <option name="indexTime" value="2005" />
   </component>
 </project>

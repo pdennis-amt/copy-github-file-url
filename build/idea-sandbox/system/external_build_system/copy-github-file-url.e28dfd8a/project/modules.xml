@@ -1,6 +1,7 @@
 <project>
   <component name="ExternalProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/copy-github-file-url.iml" filepath="$PROJECT_DIR$/.idea/modules/copy-github-file-url.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/copy-github-file-url.main.iml" filepath="$PROJECT_DIR$/.idea/modules/copy-github-file-url.main.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/copy-github-file-url.test.iml" filepath="$PROJECT_DIR$/.idea/modules/copy-github-file-url.test.iml" />
     </modules>
